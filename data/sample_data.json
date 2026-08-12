@@ -1,0 +1,158 @@
+{
+  "network": {
+    "timestamp_utc": "2026-07-29T12:00:00Z",
+    "health": "ok",
+    "slot": 301582047,
+    "block_height": 289443112,
+    "epoch_info": {
+      "epoch": 812,
+      "slotIndex": 145203,
+      "slotsInEpoch": 432000,
+      "absoluteSlot": 301582047
+    },
+    "tps_avg_recent": 4123.6,
+    "tps_latest": 4310.2,
+    "avg_slot_time_ms": 610.0,
+    "median_prioritization_fee_microlamports_per_cu": 1500,
+    "base_fee_lamports_per_signature": 5000,
+    "errors": [],
+    "vote_accounts_summary": {
+      "active_validator_count": 1342,
+      "delinquent_validator_count": 18,
+      "delinquent_stake_pct": 0.42,
+      "top_validators_by_stake": [
+        {
+          "votePubkey": "7ZeMV1RwEcuvRTZaFvBqLPHYbBQiJz9wJZzXZJvj9Nqu",
+          "activatedStakeSol": 9421000,
+          "commission": 5
+        },
+        {
+          "votePubkey": "3M1xy9nq7XZzR4Kv6JcQtVHDsHhWuBzE8ZQ5nH3jGkPq",
+          "activatedStakeSol": 8115400,
+          "commission": 7
+        },
+        {
+          "votePubkey": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
+          "activatedStakeSol": 6720300,
+          "commission": 0
+        },
+        {
+          "votePubkey": "FdVKq9ZaC5x3kv5dpfLTZ2Fq9nJZmHmXVaTv6PxRVWkq",
+          "activatedStakeSol": 5990100,
+          "commission": 8
+        },
+        {
+          "votePubkey": "GjK8pVYnJhqmZaMzE9qLXbFdWnZjXtQhVPsC7YmDkTAy",
+          "activatedStakeSol": 5320800,
+          "commission": 10
+        },
+        {
+          "votePubkey": "8YkX3wZcVpNmL2FqRvHtDsCzJm9nQaWxYpTdBrGkXeVL",
+          "activatedStakeSol": 4870200,
+          "commission": 6
+        },
+        {
+          "votePubkey": "5MnPqXhWzVdKcTfL8YrJvNsGmQaZbXeD9WtRpCzYkAoF",
+          "activatedStakeSol": 4210900,
+          "commission": 5
+        },
+        {
+          "votePubkey": "2FhTdBnJvXqRzKmLpVsGwYcEaZxDrQmNtWfHkPjXeVaC",
+          "activatedStakeSol": 3890600,
+          "commission": 9
+        }
+      ]
+    }
+  },
+  "defillama": {
+    "tvl_history": [
+      {
+        "date": 1753574400,
+        "tvl": 9820000000
+      },
+      {
+        "date": 1753660800,
+        "tvl": 9910000000
+      },
+      {
+        "date": 1753747200,
+        "tvl": 9760000000
+      },
+      {
+        "date": 1753833600,
+        "tvl": 10050000000
+      },
+      {
+        "date": 1753920000,
+        "tvl": 10190000000
+      },
+      {
+        "date": 1754006400,
+        "tvl": 10280000000
+      },
+      {
+        "date": 1754092800,
+        "tvl": 10410000000
+      }
+    ],
+    "tvl_latest_usd": 10410000000,
+    "chain_summary": {
+      "name": "Solana",
+      "tvl": 10410000000,
+      "tokenSymbol": "SOL"
+    },
+    "stablecoin_supply_usd": 12850000000,
+    "dex_volume_24h_usd": 3120000000,
+    "fees_24h_usd": 1850000,
+    "revenue_24h_usd": 1620000,
+    "rwa_tvl_usd": 214000000,
+    "rwa_protocol_count": 3,
+    "rwa_top_protocols": [
+      {"name": "Ondo Finance", "tvl_usd": 142000000},
+      {"name": "Maple", "tvl_usd": 51000000},
+      {"name": "Credix", "tvl_usd": 21000000}
+    ],
+    "errors": []
+  },
+  "glassnode": {
+    "available": true,
+    "daily_active_addresses": 1284500,
+    "as_of_utc": 1754006400,
+    "errors": []
+  },
+  "dune": {
+    "available": true,
+    "results": {
+      "daily_active_addresses": {"rows": [{"day": "2026-08-10", "active_addresses": 1301200}], "executed_at": "2026-08-10T09:00:00Z"},
+      "dex_daily_active_users": {"rows": [{"day": "2026-08-10", "dau": 214300}], "executed_at": "2026-08-10T09:00:00Z"}
+    },
+    "errors": []
+  },
+  "coingecko": {
+    "price_usd": 214.37,
+    "market_cap_usd": 113400000000,
+    "volume_24h_usd": 5230000000,
+    "change_24h_pct": 3.42,
+    "errors": []
+  },
+  "twitter": {
+    "available": false,
+    "reason": "No TWITTER_BEARER_TOKEN configured \u2014 add one (X API v2) to pull live posts. In the meantime, check these accounts manually:",
+    "watchlist": [
+      "https://x.com/solana",
+      "https://x.com/SolanaFndn",
+      "https://x.com/aeyakovenko",
+      "https://x.com/heliuslabs",
+      "https://x.com/SolanaStatus"
+    ],
+    "accounts": {}
+  },
+  "solana_data_site": {
+    "available": false,
+    "raw_next_data_found": false,
+    "extracted": {},
+    "errors": [
+      "No __NEXT_DATA__ payload found \u2014 page is likely fully client-rendered. Open solana.com/data manually for the latest headline figures."
+    ]
+  }
+}
