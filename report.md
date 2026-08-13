@@ -1,22 +1,23 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-12T23:10:22Z UTC_
+_Generated 2026-08-13T00:07:08Z UTC_
 
-## ✅ No anomalies detected this cycle
+## ⚠️ Anomalies Detected
+- 🟡 **[WARNING]** Delinquent stake (1.128%) is 18.0 std-devs above its recent average.
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `438903493`
-- Block height: `416955446`
-- Epoch: `1015` (98.0% complete)
-- Avg TPS (recent samples): **3812.1**
-- Latest TPS sample: **3770.9**
-- Avg slot time: **417.5 ms**
+- Current slot: `438911651`
+- Block height: `416963531`
+- Epoch: `1015` (99.9% complete)
+- Avg TPS (recent samples): **3650.3**
+- Latest TPS sample: **4345.3**
+- Avg slot time: **417.0 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **689**
-- Delinquent validators: **10**
-- Delinquent stake: **0.02%**
+- Active validators: **687**
+- Delinquent validators: **12**
+- Delinquent stake: **1.128%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,11 +33,11 @@ _Generated 2026-08-12T23:10:22Z UTC_
 | 10 | `DumiCKHVqo…` | 6,577,941 | 0 |
 
 ## Economic Indicators
-- SOL price: **$75.44** (24h -0.98%)
-- Market cap: **$43.93B**
+- SOL price: **$75.56** (24h -0.85%)
+- Market cap: **$44.00B**
 - 24h volume: **$1.22B**
-- Chain TVL: **$4.82B**
-- Stablecoin supply on Solana: **$15.43B**
+- Chain TVL: **$4.81B**
+- Stablecoin supply on Solana: **$15.42B**
 - 24h DEX volume: **$1.65B**
 - 24h protocol fees: **$9.98M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
@@ -45,8 +46,8 @@ _Generated 2026-08-12T23:10:22Z UTC_
 - Tokenized RWA volume on Solana: **$9.95B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.54B
   - Ondo Yield Assets: $2.51B
-  - Ondo Global Markets: $955.21M
-  - Invesco USTB: $776.88M
+  - Ondo Global Markets: $955.71M
+  - Invesco USTB: $776.87M
   - Hastra: $537.80M
 
 ## Ecosystem & Community
