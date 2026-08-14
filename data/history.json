@@ -334,5 +334,12 @@
     "delinquent_stake_pct": 0.077,
     "tvl_latest_usd": 4793980314,
     "price_usd": 75.14
+  },
+  {
+    "tps_avg_recent": 3656.1,
+    "avg_slot_time_ms": 415.3,
+    "delinquent_stake_pct": 0.021,
+    "tvl_latest_usd": 4799757848,
+    "price_usd": 75.03
   }
 ]
