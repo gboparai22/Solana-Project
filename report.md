@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-14T12:07:20Z UTC_
+_Generated 2026-08-14T13:52:34Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `439222821`
-- Block height: `417274187`
-- Epoch: `1016` (71.9% complete)
-- Avg TPS (recent samples): **3166.2**
-- Latest TPS sample: **3095.0**
-- Avg slot time: **415.4 ms**
+- Current slot: `439238027`
+- Block height: `417289370`
+- Epoch: `1016` (75.5% complete)
+- Avg TPS (recent samples): **4797.4**
+- Latest TPS sample: **4504.1**
+- Avg slot time: **415.2 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **687**
-- Delinquent validators: **10**
-- Delinquent stake: **0.074%**
+- Active validators: **688**
+- Delinquent validators: **9**
+- Delinquent stake: **0.014%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,11 +32,11 @@ _Generated 2026-08-14T12:07:20Z UTC_
 | 10 | `DumiCKHVqo…` | 6,581,887 | 0 |
 
 ## Economic Indicators
-- SOL price: **$75.46** (24h -0.27%)
-- Market cap: **$43.97B**
+- SOL price: **$75.29** (24h -1.18%)
+- Market cap: **$43.87B**
 - 24h volume: **$1.10B**
 - Chain TVL: **$4.82B**
-- Stablecoin supply on Solana: **$15.44B**
+- Stablecoin supply on Solana: **$15.41B**
 - 24h DEX volume: **$1.94B**
 - 24h protocol fees: **$10.08M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
@@ -45,9 +45,9 @@ _Generated 2026-08-14T12:07:20Z UTC_
 - Tokenized RWA volume on Solana: **$9.97B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.55B
   - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $969.54M
+  - Ondo Global Markets: $970.64M
   - Invesco USTB: $776.30M
-  - Hastra: $537.09M
+  - Hastra: $537.12M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
