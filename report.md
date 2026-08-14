@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-14T08:44:49Z UTC_
+_Generated 2026-08-14T09:59:27Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `439193535`
-- Block height: `417244931`
-- Epoch: `1016` (65.2% complete)
-- Avg TPS (recent samples): **3059.9**
-- Latest TPS sample: **3188.4**
-- Avg slot time: **412.3 ms**
+- Current slot: `439204344`
+- Block height: `417255735`
+- Epoch: `1016` (67.7% complete)
+- Avg TPS (recent samples): **3288.2**
+- Latest TPS sample: **2983.6**
+- Avg slot time: **414.0 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,13 +32,13 @@ _Generated 2026-08-14T08:44:49Z UTC_
 | 10 | `DumiCKHVqo…` | 6,581,887 | 0 |
 
 ## Economic Indicators
-- SOL price: **$75.7** (24h -0.63%)
-- Market cap: **$44.11B**
-- 24h volume: **$1.13B**
-- Chain TVL: **$4.84B**
-- Stablecoin supply on Solana: **$15.45B**
+- SOL price: **$75.47** (24h -0.83%)
+- Market cap: **$43.97B**
+- 24h volume: **$1.12B**
+- Chain TVL: **$4.83B**
+- Stablecoin supply on Solana: **$15.44B**
 - 24h DEX volume: **$1.98B**
-- 24h protocol fees: **$10.09M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$10.10M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): _No GLASSNODE_API_KEY configured — add one in .env to enable daily active addresses._
@@ -47,7 +47,7 @@ _Generated 2026-08-14T08:44:49Z UTC_
   - Ondo Yield Assets: $2.51B
   - Ondo Global Markets: $968.38M
   - Invesco USTB: $776.27M
-  - Hastra: $537.10M
+  - Hastra: $537.12M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
