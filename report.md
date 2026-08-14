@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-14T01:48:37Z UTC_
+_Generated 2026-08-14T04:07:33Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `439133340`
-- Block height: `417184787`
-- Epoch: `1016` (51.2% complete)
-- Avg TPS (recent samples): **3348.3**
-- Latest TPS sample: **3459.2**
-- Avg slot time: **416.5 ms**
+- Current slot: `439153404`
+- Block height: `417204830`
+- Epoch: `1016` (55.9% complete)
+- Avg TPS (recent samples): **3498.2**
+- Latest TPS sample: **3332.1**
+- Avg slot time: **417.4 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-08-14T01:48:37Z UTC_
 | 10 | `DumiCKHVqo…` | 6,581,887 | 0 |
 
 ## Economic Indicators
-- SOL price: **$76.03** (24h +0.61%)
-- Market cap: **$44.30B**
-- 24h volume: **$1.18B**
+- SOL price: **$75.81** (24h -0.48%)
+- Market cap: **$44.19B**
+- 24h volume: **$1.12B**
 - Chain TVL: **$4.84B**
-- Stablecoin supply on Solana: **$15.44B**
+- Stablecoin supply on Solana: **$15.43B**
 - 24h DEX volume: **$1.98B**
-- 24h protocol fees: **$9.11M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$10.09M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): _No GLASSNODE_API_KEY configured — add one in .env to enable daily active addresses._
 - Tokenized RWA volume on Solana: **$9.97B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.55B
-  - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $968.72M
-  - Invesco USTB: $776.28M
-  - Hastra: $537.65M
+  - Ondo Yield Assets: $2.51B
+  - Ondo Global Markets: $968.49M
+  - Invesco USTB: $776.27M
+  - Hastra: $537.30M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
