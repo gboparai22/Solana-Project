@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-14T21:32:08Z UTC_
+_Generated 2026-08-14T22:20:54Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `439304348`
-- Block height: `417355657`
-- Epoch: `1016` (90.8% complete)
-- Avg TPS (recent samples): **3768.7**
-- Latest TPS sample: **3890.9**
-- Avg slot time: **416.2 ms**
+- Current slot: `439311377`
+- Block height: `417362684`
+- Epoch: `1016` (92.4% complete)
+- Avg TPS (recent samples): **3656.1**
+- Latest TPS sample: **3420.8**
+- Avg slot time: **415.3 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **687**
-- Delinquent validators: **11**
-- Delinquent stake: **0.077%**
+- Active validators: **688**
+- Delinquent validators: **10**
+- Delinquent stake: **0.021%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,11 +32,11 @@ _Generated 2026-08-14T21:32:08Z UTC_
 | 10 | `DumiCKHVqo…` | 6,581,887 | 0 |
 
 ## Economic Indicators
-- SOL price: **$75.14** (24h -1.29%)
-- Market cap: **$43.78B**
-- 24h volume: **$1.08B**
-- Chain TVL: **$4.79B**
-- Stablecoin supply on Solana: **$15.34B**
+- SOL price: **$75.03** (24h -1.66%)
+- Market cap: **$43.71B**
+- 24h volume: **$1.07B**
+- Chain TVL: **$4.80B**
+- Stablecoin supply on Solana: **$15.35B**
 - 24h DEX volume: **$1.94B**
 - 24h protocol fees: **$10.15M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
@@ -45,9 +45,9 @@ _Generated 2026-08-14T21:32:08Z UTC_
 - Tokenized RWA volume on Solana: **$9.98B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.55B
   - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $961.31M
+  - Ondo Global Markets: $960.98M
   - Invesco USTB: $781.64M
-  - Hastra: $557.14M
+  - Hastra: $557.05M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
