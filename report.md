@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-14T23:47:23Z UTC_
+_Generated 2026-08-15T01:07:45Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `439323825`
-- Block height: `417375119`
-- Epoch: `1016` (95.3% complete)
-- Avg TPS (recent samples): **3415.7**
-- Latest TPS sample: **3041.6**
-- Avg slot time: **419.2 ms**
+- Current slot: `439335452`
+- Block height: `417386737`
+- Epoch: `1016` (98.0% complete)
+- Avg TPS (recent samples): **3342.7**
+- Latest TPS sample: **3196.7**
+- Avg slot time: **414.5 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-08-14T23:47:23Z UTC_
 | 10 | `DumiCKHVqo…` | 6,581,887 | 0 |
 
 ## Economic Indicators
-- SOL price: **$75.3** (24h -1.20%)
-- Market cap: **$43.88B**
-- 24h volume: **$1.08B**
-- Chain TVL: **$4.80B**
+- SOL price: **$75.24** (24h -0.98%)
+- Market cap: **$43.85B**
+- 24h volume: **$1.04B**
+- Chain TVL: **$4.81B**
 - Stablecoin supply on Solana: **$15.36B**
-- 24h DEX volume: **$1.94B**
-- 24h protocol fees: **$10.15M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h DEX volume: **$1.64B**
+- 24h protocol fees: **$10.27M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): _No GLASSNODE_API_KEY configured — add one in .env to enable daily active addresses._
-- Tokenized RWA volume on Solana: **$9.98B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.99B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.55B
   - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $961.03M
-  - Invesco USTB: $781.64M
-  - Hastra: $557.57M
+  - Ondo Global Markets: $960.98M
+  - Invesco USTB: $782.66M
+  - Hastra: $557.61M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
