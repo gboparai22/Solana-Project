@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-15T22:18:48Z UTC_
+_Generated 2026-08-15T22:47:02Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `439518856`
-- Block height: `417569481`
-- Epoch: `1017` (40.5% complete)
-- Avg TPS (recent samples): **3444.9**
-- Latest TPS sample: **3033.2**
-- Avg slot time: **413.9 ms**
+- Current slot: `439522915`
+- Block height: `417573540`
+- Epoch: `1017` (41.4% complete)
+- Avg TPS (recent samples): **3351.2**
+- Latest TPS sample: **3846.7**
+- Avg slot time: **415.8 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,9 +32,9 @@ _Generated 2026-08-15T22:18:48Z UTC_
 | 10 | `DumiCKHVqo…` | 6,586,185 | 0 |
 
 ## Economic Indicators
-- SOL price: **$75.55** (24h +0.71%)
-- Market cap: **$44.03B**
-- 24h volume: **$660.01M**
+- SOL price: **$75.54** (24h +0.53%)
+- Market cap: **$44.02B**
+- 24h volume: **$656.70M**
 - Chain TVL: **$4.82B**
 - Stablecoin supply on Solana: **$15.35B**
 - 24h DEX volume: **$1.61B**
