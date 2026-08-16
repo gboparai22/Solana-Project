@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-16T13:55:25Z UTC_
+_Generated 2026-08-16T14:21:38Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `439653974`
-- Block height: `417704568`
-- Epoch: `1017` (71.8% complete)
-- Avg TPS (recent samples): **3334.1**
-- Latest TPS sample: **3162.4**
-- Avg slot time: **416.6 ms**
+- Current slot: `439657734`
+- Block height: `417708328`
+- Epoch: `1017` (72.6% complete)
+- Avg TPS (recent samples): **3304.1**
+- Latest TPS sample: **3188.2**
+- Avg slot time: **418.0 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,13 +32,13 @@ _Generated 2026-08-16T13:55:25Z UTC_
 | 10 | `DumiCKHVqo…` | 6,586,185 | 0 |
 
 ## Economic Indicators
-- SOL price: **$75.28** (24h -0.27%)
+- SOL price: **$75.27** (24h -0.28%)
 - Market cap: **$43.87B**
-- 24h volume: **$563.14M**
+- 24h volume: **$551.84M**
 - Chain TVL: **$4.80B**
 - Stablecoin supply on Solana: **$15.34B**
 - 24h DEX volume: **$1.17B**
-- 24h protocol fees: **$8.05M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$8.15M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): _No GLASSNODE_API_KEY configured — add one in .env to enable daily active addresses._
