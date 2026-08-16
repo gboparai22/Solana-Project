@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-16T21:44:13Z UTC_
+_Generated 2026-08-16T22:19:05Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `439721641`
-- Block height: `417772219`
-- Epoch: `1017` (87.4% complete)
-- Avg TPS (recent samples): **3830.2**
-- Latest TPS sample: **4246.6**
-- Avg slot time: **414.0 ms**
+- Current slot: `439726701`
+- Block height: `417777276`
+- Epoch: `1017` (88.6% complete)
+- Avg TPS (recent samples): **3853.3**
+- Latest TPS sample: **3707.5**
+- Avg slot time: **412.9 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,9 +32,9 @@ _Generated 2026-08-16T21:44:13Z UTC_
 | 10 | `DumiCKHVqo…` | 6,586,185 | 0 |
 
 ## Economic Indicators
-- SOL price: **$74.42** (24h -1.62%)
+- SOL price: **$74.4** (24h -1.52%)
 - Market cap: **$43.37B**
-- 24h volume: **$656.17M**
+- 24h volume: **$702.23M**
 - Chain TVL: **$4.79B**
 - Stablecoin supply on Solana: **$15.33B**
 - 24h DEX volume: **$1.17B**
@@ -46,8 +46,8 @@ _Generated 2026-08-16T21:44:13Z UTC_
   - BlackRock BUIDL: $3.55B
   - Ondo Yield Assets: $2.52B
   - Ondo Global Markets: $964.42M
-  - Invesco USTB: $782.25M
-  - Hastra: $557.45M
+  - Invesco USTB: $782.24M
+  - Hastra: $557.66M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
