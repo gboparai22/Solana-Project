@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-17T10:30:38Z UTC_
+_Generated 2026-08-17T11:23:42Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `439832500`
-- Block height: `417883030`
-- Epoch: `1018` (13.1% complete)
-- Avg TPS (recent samples): **3010.7**
-- Latest TPS sample: **3507.3**
-- Avg slot time: **419.5 ms**
+- Current slot: `439840194`
+- Block height: `417890716`
+- Epoch: `1018` (14.9% complete)
+- Avg TPS (recent samples): **3192.9**
+- Latest TPS sample: **3156.4**
+- Avg slot time: **412.7 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,13 +32,13 @@ _Generated 2026-08-17T10:30:38Z UTC_
 | 10 | `DumiCKHVqo…` | 6,588,037 | 0 |
 
 ## Economic Indicators
-- SOL price: **$75.28** (24h +0.15%)
-- Market cap: **$43.87B**
-- 24h volume: **$1.04B**
-- Chain TVL: **$4.82B**
+- SOL price: **$75.71** (24h +0.63%)
+- Market cap: **$44.10B**
+- 24h volume: **$1.09B**
+- Chain TVL: **$4.81B**
 - Stablecoin supply on Solana: **$15.34B**
-- 24h DEX volume: **$1.05B**
-- 24h protocol fees: **$6.62M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h DEX volume: **$1.06B**
+- 24h protocol fees: **$6.71M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): _No GLASSNODE_API_KEY configured — add one in .env to enable daily active addresses._
