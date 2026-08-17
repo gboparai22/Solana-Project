@@ -1,0 +1,42 @@
+name: SolPulse Refresh
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run SolPulse
+        env:
+          DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
+          GLASSNODE_API_KEY: ${{ secrets.GLASSNODE_API_KEY }}
+          CMC_API_KEY: ${{ secrets.CMC_API_KEY }}
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+        run: python3 orchestrator.py --once
+
+      - name: Persist anomaly-detection history
+        run: |
+          git config user.name "solpulse-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/history.json
+          git diff --staged --quiet || git commit -m "Update SolPulse history"
+          git push
+
+      - name: Deploy dashboard to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          keep_files: false
