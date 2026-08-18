@@ -1,17 +1,18 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-18T04:33:29Z UTC_
+_Generated 2026-08-18T05:27:07Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `439988897`
-- Block height: `418039286`
-- Epoch: `1018` (49.3% complete)
-- Avg TPS (recent samples): **2996.0**
-- Latest TPS sample: **3022.9**
-- Avg slot time: **414.6 ms**
+- Current slot: `439996659`
+- Block height: `418047046`
+- Epoch: `1018` (51.1% complete)
+- Avg TPS (recent samples): **2802.5**
+- Latest TPS sample: **2767.5**
+- Avg slot time: **415.2 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
+- ⚠️ Partial data — errors: supply: All RPC endpoints failed for getSupply: <urlopen error timed out>
 
 ## Validator Status
 - Active validators: **689**
@@ -32,22 +33,22 @@ _Generated 2026-08-18T04:33:29Z UTC_
 | 10 | `DumiCKHVqo…` | 6,588,037 | 0 |
 
 ## Economic Indicators
-- SOL price: **$75.69** (24h +0.30%)
-- Market cap: **$44.12B**
-- 24h volume: **$1.27B**
+- SOL price: **$75.79** (24h +0.41%)
+- Market cap: **$44.18B**
+- 24h volume: **$1.31B**
 - Chain TVL: **$4.84B**
 - Stablecoin supply on Solana: **$15.34B**
 - 24h DEX volume: **$1.43B**
-- 24h protocol fees: **$10.73M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$10.77M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): _No GLASSNODE_API_KEY configured — add one in .env to enable daily active addresses._
 - Tokenized RWA volume on Solana: **$10.00B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.55B
   - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $961.81M
+  - Ondo Global Markets: $957.14M
   - Invesco USTB: $773.01M
-  - Hastra: $565.63M
+  - Hastra: $565.62M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
