@@ -1,23 +1,23 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-18T13:40:13Z UTC_
+_Generated 2026-08-18T14:31:54Z UTC_
 
-## ✅ No anomalies detected this cycle
+## ⚠️ Anomalies Detected
+- 🟡 **[WARNING]** Delinquent stake (0.195%) is 2.9 std-devs above its recent average.
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440067939`
-- Block height: `418118257`
-- Epoch: `1018` (67.6% complete)
-- Avg TPS (recent samples): **4592.8**
-- Latest TPS sample: **5595.8**
-- Avg slot time: **418.2 ms**
+- Current slot: `440075381`
+- Block height: `418125687`
+- Epoch: `1018` (69.3% complete)
+- Avg TPS (recent samples): **4899.3**
+- Latest TPS sample: **5779.1**
+- Avg slot time: **417.8 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
-- ⚠️ Partial data — errors: supply: All RPC endpoints failed for getSupply: <urlopen error timed out>
 
 ## Validator Status
-- Active validators: **686**
-- Delinquent validators: **9**
-- Delinquent stake: **0.112%**
+- Active validators: **685**
+- Delinquent validators: **10**
+- Delinquent stake: **0.195%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -33,20 +33,20 @@ _Generated 2026-08-18T13:40:13Z UTC_
 | 10 | `DumiCKHVqo…` | 6,588,037 | 0 |
 
 ## Economic Indicators
-- SOL price: **$76.05** (24h +0.62%)
-- Market cap: **$44.33B**
-- 24h volume: **$1.27B**
+- SOL price: **$76.93** (24h +1.85%)
+- Market cap: **$44.84B**
+- 24h volume: **$1.31B**
 - Chain TVL: **$4.86B**
-- Stablecoin supply on Solana: **$15.32B**
+- Stablecoin supply on Solana: **$15.34B**
 - 24h DEX volume: **$1.47B**
-- 24h protocol fees: **$11.11M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$11.19M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): _No GLASSNODE_API_KEY configured — add one in .env to enable daily active addresses._
-- Tokenized RWA volume on Solana: **$9.99B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.98B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.55B
   - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $953.02M
+  - Ondo Global Markets: $952.02M
   - Invesco USTB: $773.02M
   - Hastra: $565.89M
 
