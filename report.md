@@ -1,23 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-19T15:59:34Z UTC_
+_Generated 2026-08-19T16:39:45Z UTC_
 
-## ⚠️ Anomalies Detected
-- 🟡 **[WARNING]** Delinquent stake (0.188%) is 2.6 std-devs above its recent average.
+## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440295735`
-- Block height: `418345774`
-- Epoch: `1019` (20.3% complete)
-- Avg TPS (recent samples): **5690.4**
-- Latest TPS sample: **5554.5**
-- Avg slot time: **421.2 ms**
+- Current slot: `440301480`
+- Block height: `418351511`
+- Epoch: `1019` (21.6% complete)
+- Avg TPS (recent samples): **5912.1**
+- Latest TPS sample: **5709.6**
+- Avg slot time: **421.3 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **684**
-- Delinquent validators: **11**
-- Delinquent stake: **0.188%**
+- Active validators: **685**
+- Delinquent validators: **10**
+- Delinquent stake: **0.171%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -33,20 +32,20 @@ _Generated 2026-08-19T15:59:34Z UTC_
 | 10 | `DumiCKHVqo…` | 6,546,146 | 0 |
 
 ## Economic Indicators
-- SOL price: **$81.83** (24h +6.17%)
-- Market cap: **$47.71B**
-- 24h volume: **$2.68B**
+- SOL price: **$81.93** (24h +6.45%)
+- Market cap: **$47.17B**
+- 24h volume: **$2.80B**
 - Chain TVL: **$4.93B**
-- Stablecoin supply on Solana: **$15.38B**
+- Stablecoin supply on Solana: **$15.39B**
 - 24h DEX volume: **$1.84B**
 - 24h protocol fees: **$8.77M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): _No GLASSNODE_API_KEY configured — add one in .env to enable daily active addresses._
-- Tokenized RWA volume on Solana: **$9.98B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.97B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.55B
   - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $957.20M
+  - Ondo Global Markets: $956.04M
   - Invesco USTB: $723.91M
   - Hastra: $585.08M
 
