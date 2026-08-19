@@ -1,22 +1,23 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-19T12:42:09Z UTC_
+_Generated 2026-08-19T13:42:33Z UTC_
 
-## ✅ No anomalies detected this cycle
+## ⚠️ Anomalies Detected
+- 🟡 **[WARNING]** Delinquent stake (0.171%) is 2.5 std-devs above its recent average.
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440267376`
-- Block height: `418317481`
-- Epoch: `1019` (13.7% complete)
-- Avg TPS (recent samples): **4213.3**
-- Latest TPS sample: **4376.4**
-- Avg slot time: **419.7 ms**
+- Current slot: `440276064`
+- Block height: `418326136`
+- Epoch: `1019` (15.8% complete)
+- Avg TPS (recent samples): **4925.2**
+- Latest TPS sample: **4882.1**
+- Avg slot time: **417.0 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **686**
-- Delinquent validators: **9**
-- Delinquent stake: **0.099%**
+- Active validators: **685**
+- Delinquent validators: **10**
+- Delinquent stake: **0.171%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,11 +33,11 @@ _Generated 2026-08-19T12:42:09Z UTC_
 | 10 | `DumiCKHVqo…` | 6,546,146 | 0 |
 
 ## Economic Indicators
-- SOL price: **$77.64** (24h +1.84%)
-- Market cap: **$45.26B**
-- 24h volume: **$1.38B**
+- SOL price: **$78.32** (24h +2.87%)
+- Market cap: **$45.66B**
+- 24h volume: **$1.67B**
 - Chain TVL: **$4.92B**
-- Stablecoin supply on Solana: **$15.35B**
+- Stablecoin supply on Solana: **$15.37B**
 - 24h DEX volume: **$1.84B**
 - 24h protocol fees: **$8.69M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
