@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-20T11:35:09Z UTC_
+_Generated 2026-08-20T12:44:47Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440465259`
-- Block height: `418515089`
-- Epoch: `1019` (59.6% complete)
-- Avg TPS (recent samples): **3600.9**
-- Latest TPS sample: **3724.7**
-- Avg slot time: **414.0 ms**
+- Current slot: `440475351`
+- Block height: `418525179`
+- Epoch: `1019` (61.9% complete)
+- Avg TPS (recent samples): **3778.6**
+- Latest TPS sample: **3688.7**
+- Avg slot time: **416.0 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **689**
-- Delinquent validators: **7**
-- Delinquent stake: **0.079%**
+- Active validators: **690**
+- Delinquent validators: **6**
+- Delinquent stake: **0.001%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,11 +32,11 @@ _Generated 2026-08-20T11:35:09Z UTC_
 | 10 | `DumiCKHVqo…` | 6,546,146 | 0 |
 
 ## Economic Indicators
-- SOL price: **$87.41** (24h +12.76%)
-- Market cap: **$50.90B**
-- 24h volume: **$5.54B**
+- SOL price: **$86.76** (24h +11.35%)
+- Market cap: **$50.58B**
+- 24h volume: **$5.78B**
 - Chain TVL: **$5.30B**
-- Stablecoin supply on Solana: **$15.70B**
+- Stablecoin supply on Solana: **$15.67B**
 - 24h DEX volume: **$3.01B**
 - 24h protocol fees: **$13.59M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
@@ -45,9 +45,9 @@ _Generated 2026-08-20T11:35:09Z UTC_
 - Tokenized RWA volume on Solana: **$9.97B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.54B
   - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $975.87M
-  - Invesco USTB: $699.62M
-  - Hastra: $586.92M
+  - Ondo Global Markets: $972.60M
+  - Invesco USTB: $684.87M
+  - Hastra: $586.73M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
