@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-20T13:44:07Z UTC_
+_Generated 2026-08-20T14:34:18Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440483889`
-- Block height: `418533716`
-- Epoch: `1019` (63.9% complete)
-- Avg TPS (recent samples): **5048.1**
-- Latest TPS sample: **5113.4**
-- Avg slot time: **420.2 ms**
+- Current slot: `440491103`
+- Block height: `418540929`
+- Epoch: `1019` (65.5% complete)
+- Avg TPS (recent samples): **4834.9**
+- Latest TPS sample: **4911.9**
+- Avg slot time: **417.0 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **690**
-- Delinquent validators: **6**
-- Delinquent stake: **0.001%**
+- Active validators: **689**
+- Delinquent validators: **7**
+- Delinquent stake: **0.015%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,13 +32,13 @@ _Generated 2026-08-20T13:44:07Z UTC_
 | 10 | `DumiCKHVqo…` | 6,546,146 | 0 |
 
 ## Economic Indicators
-- SOL price: **$86.48** (24h +10.43%)
-- Market cap: **$50.42B**
-- 24h volume: **$5.72B**
+- SOL price: **$86.4** (24h +10.11%)
+- Market cap: **$50.38B**
+- 24h volume: **$5.69B**
 - Chain TVL: **$5.29B**
 - Stablecoin supply on Solana: **$15.59B**
 - 24h DEX volume: **$3.01B**
-- 24h protocol fees: **$13.59M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$13.68M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,448,081**
@@ -47,7 +47,7 @@ _Generated 2026-08-20T13:44:07Z UTC_
   - Ondo Yield Assets: $2.52B
   - Ondo Global Markets: $965.69M
   - Invesco USTB: $684.87M
-  - Hastra: $586.73M
+  - Hastra: $586.70M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
