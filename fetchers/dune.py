@@ -23,7 +23,7 @@ import sys, os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import config
 
-DUNE_LATEST_RESULT_URL = "https://api.dune.com/api/v1/query/{query_id}/results/latest"
+DUNE_LATEST_RESULT_URL = "https://api.dune.com/api/v1/query/{query_id}/results"
 
 
 def _get_latest_result(query_id):

@@ -116,8 +116,7 @@ GLASSNODE_ACTIVE_ADDRESSES_URL = "https://api.glassnode.com/v1/metrics/addresses
 # ---------------------------------------------------------------------------
 DUNE_API_KEY = os.environ.get("DUNE_API_KEY", "")
 DUNE_QUERY_IDS = {
-     "daily_active_addresses": 576193,
-    "dex_daily_active_users": 1318665,
+     "daily_active_addresses": 8389816,
 }
 
 # ---------------------------------------------------------------------------
