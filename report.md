@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-20T01:07:49Z UTC_
+_Generated 2026-08-20T02:36:42Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440374671`
-- Block height: `418424607`
-- Epoch: `1019` (38.6% complete)
-- Avg TPS (recent samples): **3956.3**
-- Latest TPS sample: **4270.4**
-- Avg slot time: **413.6 ms**
+- Current slot: `440387457`
+- Block height: `418437385`
+- Epoch: `1019` (41.5% complete)
+- Avg TPS (recent samples): **3534.2**
+- Latest TPS sample: **3150.8**
+- Avg slot time: **415.5 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-08-20T01:07:49Z UTC_
 | 10 | `DumiCKHVqo…` | 6,546,146 | 0 |
 
 ## Economic Indicators
-- SOL price: **$84.93** (24h +10.37%)
-- Market cap: **$49.52B**
-- 24h volume: **$4.53B**
-- Chain TVL: **$5.16B**
+- SOL price: **$85.01** (24h +10.61%)
+- Market cap: **$49.57B**
+- 24h volume: **$4.62B**
+- Chain TVL: **$5.23B**
 - Stablecoin supply on Solana: **$15.67B**
-- 24h DEX volume: **$2.19B**
-- 24h protocol fees: **$10.20M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h DEX volume: **$2.76B**
+- 24h protocol fees: **$10.60M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): _No GLASSNODE_API_KEY configured — add one in .env to enable daily active addresses._
 - Tokenized RWA volume on Solana: **$10.00B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.54B
   - Ondo Yield Assets: $2.51B
-  - Ondo Global Markets: $970.11M
+  - Ondo Global Markets: $971.27M
   - Invesco USTB: $739.41M
-  - Hastra: $587.35M
+  - Hastra: $587.32M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
