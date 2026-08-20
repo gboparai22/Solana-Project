@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-20T12:44:47Z UTC_
+_Generated 2026-08-20T13:39:18Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440475351`
-- Block height: `418525179`
-- Epoch: `1019` (61.9% complete)
-- Avg TPS (recent samples): **3778.6**
-- Latest TPS sample: **3688.7**
-- Avg slot time: **416.0 ms**
+- Current slot: `440483201`
+- Block height: `418533027`
+- Epoch: `1019` (63.7% complete)
+- Avg TPS (recent samples): **4763.0**
+- Latest TPS sample: **6069.3**
+- Avg slot time: **418.2 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,16 +32,16 @@ _Generated 2026-08-20T12:44:47Z UTC_
 | 10 | `DumiCKHVqo…` | 6,546,146 | 0 |
 
 ## Economic Indicators
-- SOL price: **$86.76** (24h +11.35%)
-- Market cap: **$50.58B**
-- 24h volume: **$5.78B**
+- SOL price: **$86.32** (24h +10.18%)
+- Market cap: **$50.31B**
+- 24h volume: **$5.66B**
 - Chain TVL: **$5.30B**
-- Stablecoin supply on Solana: **$15.67B**
+- Stablecoin supply on Solana: **$15.68B**
 - 24h DEX volume: **$3.01B**
 - 24h protocol fees: **$13.59M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): _No GLASSNODE_API_KEY configured — add one in .env to enable daily active addresses._
+- Daily active addresses (Glassnode): **5,448,081**
 - Tokenized RWA volume on Solana: **$9.97B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.54B
   - Ondo Yield Assets: $2.52B
@@ -57,7 +57,7 @@ _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. I
   - https://x.com/heliuslabs
   - https://x.com/SolanaStatus
 
-_Dune Analytics: No DUNE_API_KEY / DUNE_QUERY_IDS configured — add a key and query IDs in config.py to enable Dune-sourced metrics._
+**Dune Analytics**
 
 _solana.com/data: No __NEXT_DATA__ payload found — page is likely fully client-rendered. Open solana.com/data manually for the latest headline figures._
 
