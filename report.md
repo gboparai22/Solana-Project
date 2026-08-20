@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-20T21:26:01Z UTC_
+_Generated 2026-08-20T21:54:15Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440550476`
-- Block height: `418600222`
-- Epoch: `1019` (79.3% complete)
-- Avg TPS (recent samples): **4150.0**
-- Latest TPS sample: **4309.2**
-- Avg slot time: **418.2 ms**
+- Current slot: `440554547`
+- Block height: `418604293`
+- Epoch: `1019` (80.2% complete)
+- Avg TPS (recent samples): **3880.2**
+- Latest TPS sample: **4128.4**
+- Avg slot time: **415.0 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,10 +32,10 @@ _Generated 2026-08-20T21:26:01Z UTC_
 | 10 | `DumiCKHVqo…` | 6,546,146 | 0 |
 
 ## Economic Indicators
-- SOL price: **$87.49** (24h +1.04%)
-- Market cap: **$51.03B**
-- 24h volume: **$4.33B**
-- Chain TVL: **$5.31B**
+- SOL price: **$87.54** (24h +0.92%)
+- Market cap: **$51.04B**
+- 24h volume: **$4.34B**
+- Chain TVL: **$5.28B**
 - Stablecoin supply on Solana: **$15.84B**
 - 24h DEX volume: **$3.01B**
 - 24h protocol fees: **$13.68M** _(REV proxy — fees only, not fees + priority fees + issuance)_
@@ -43,11 +43,11 @@ _Generated 2026-08-20T21:26:01Z UTC_
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,448,081**
 - Daily active addresses (Dune, cross-check): 689 rows returned — see report.json for raw figures (executed 2026-08-20T13:56:25.822995Z)
-- Tokenized RWA volume on Solana: **$9.87B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.88B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.53B
-  - Ondo Yield Assets: $2.51B
+  - Ondo Yield Assets: $2.52B
   - Ondo Global Markets: $968.22M
-  - Invesco USTB: $664.17M
+  - Invesco USTB: $664.00M
   - Hastra: $588.12M
 
 ## Ecosystem & Community
