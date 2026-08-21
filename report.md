@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-21T11:33:16Z UTC_
+_Generated 2026-08-21T12:42:41Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440677183`
-- Block height: `418726842`
-- Epoch: `1020` (8.6% complete)
-- Avg TPS (recent samples): **4361.1**
-- Latest TPS sample: **5360.4**
-- Avg slot time: **367.5 ms**
+- Current slot: `440688529`
+- Block height: `418738180`
+- Epoch: `1020` (11.2% complete)
+- Avg TPS (recent samples): **4159.9**
+- Latest TPS sample: **4243.2**
+- Avg slot time: **366.7 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **684**
-- Delinquent validators: **10**
-- Delinquent stake: **0.07%**
+- Active validators: **683**
+- Delinquent validators: **11**
+- Delinquent stake: **0.117%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,22 +32,22 @@ _Generated 2026-08-21T11:33:16Z UTC_
 | 10 | `DumiCKHVqo…` | 6,547,243 | 0 |
 
 ## Economic Indicators
-- SOL price: **$90.9** (24h +4.02%)
-- Market cap: **$53.03B**
-- 24h volume: **$5.89B**
-- Chain TVL: **$5.47B**
-- Stablecoin supply on Solana: **$15.75B**
-- 24h DEX volume: **$2.78B**
-- 24h protocol fees: **$11.04M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$90.86** (24h +4.69%)
+- Market cap: **$52.99B**
+- 24h volume: **$5.93B**
+- Chain TVL: **$5.46B**
+- Stablecoin supply on Solana: **$15.67B**
+- 24h DEX volume: **$2.77B**
+- 24h protocol fees: **$10.99M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,597,976**
 - Tokenized RWA volume on Solana: **$9.90B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.53B
   - Ondo Yield Assets: $2.51B
-  - Ondo Global Markets: $984.52M
-  - Invesco USTB: $655.00M
-  - Hastra: $587.90M
+  - Ondo Global Markets: $982.85M
+  - Invesco USTB: $655.21M
+  - Hastra: $587.71M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
