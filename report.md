@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-21T13:43:07Z UTC_
+_Generated 2026-08-21T14:33:13Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440698462`
-- Block height: `418748102`
-- Epoch: `1020` (13.5% complete)
-- Avg TPS (recent samples): **5406.6**
-- Latest TPS sample: **5803.9**
-- Avg slot time: **366.4 ms**
+- Current slot: `440706658`
+- Block height: `418756282`
+- Epoch: `1020` (15.4% complete)
+- Avg TPS (recent samples): **5344.6**
+- Latest TPS sample: **5568.1**
+- Avg slot time: **364.9 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-08-21T13:43:07Z UTC_
 | 10 | `DumiCKHVqo…` | 6,547,243 | 0 |
 
 ## Economic Indicators
-- SOL price: **$90.72** (24h +4.84%)
-- Market cap: **$52.96B**
-- 24h volume: **$5.99B**
-- Chain TVL: **$5.45B**
-- Stablecoin supply on Solana: **$15.66B**
+- SOL price: **$91.28** (24h +5.65%)
+- Market cap: **$53.22B**
+- 24h volume: **$5.98B**
+- Chain TVL: **$5.46B**
+- Stablecoin supply on Solana: **$15.72B**
 - 24h DEX volume: **$2.77B**
-- 24h protocol fees: **$10.99M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$11.08M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,597,976**
-- Tokenized RWA volume on Solana: **$9.90B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.89B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.53B
-  - Ondo Yield Assets: $2.51B
-  - Ondo Global Markets: $982.85M
-  - Invesco USTB: $655.21M
-  - Hastra: $587.64M
+  - Ondo Yield Assets: $2.52B
+  - Ondo Global Markets: $982.33M
+  - Invesco USTB: $639.37M
+  - Hastra: $587.53M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
