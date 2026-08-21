@@ -1,187 +1,5 @@
 [
   {
-    "tps_avg_recent": 3856.5,
-    "avg_slot_time_ms": 436.8,
-    "delinquent_stake_pct": 0.008,
-    "tvl_latest_usd": 4884309147,
-    "price_usd": 76.93
-  },
-  {
-    "tps_avg_recent": 4137.8,
-    "avg_slot_time_ms": 414.8,
-    "delinquent_stake_pct": 0.087,
-    "tvl_latest_usd": 4899332892,
-    "price_usd": 76.83
-  },
-  {
-    "tps_avg_recent": 3147.9,
-    "avg_slot_time_ms": 415.9,
-    "delinquent_stake_pct": 0.129,
-    "tvl_latest_usd": 4894087601,
-    "price_usd": 77.01
-  },
-  {
-    "tps_avg_recent": 3475.2,
-    "avg_slot_time_ms": 414.2,
-    "delinquent_stake_pct": 0.012,
-    "tvl_latest_usd": 4893948218,
-    "price_usd": 76.95
-  },
-  {
-    "tps_avg_recent": 3154.0,
-    "avg_slot_time_ms": 415.3,
-    "delinquent_stake_pct": 0.08,
-    "tvl_latest_usd": 4898010048,
-    "price_usd": 76.85
-  },
-  {
-    "tps_avg_recent": 2888.4,
-    "avg_slot_time_ms": 414.4,
-    "delinquent_stake_pct": 0.255,
-    "tvl_latest_usd": 4898010048,
-    "price_usd": 76.77
-  },
-  {
-    "tps_avg_recent": 2839.8,
-    "avg_slot_time_ms": 415.0,
-    "delinquent_stake_pct": 0.039,
-    "tvl_latest_usd": 4892394888,
-    "price_usd": 76.96
-  },
-  {
-    "tps_avg_recent": 2807.7,
-    "avg_slot_time_ms": 414.9,
-    "delinquent_stake_pct": 0.032,
-    "tvl_latest_usd": 4892647796,
-    "price_usd": 76.97
-  },
-  {
-    "tps_avg_recent": 2964.8,
-    "avg_slot_time_ms": 416.9,
-    "delinquent_stake_pct": 0.029,
-    "tvl_latest_usd": 4890743070,
-    "price_usd": 77.14
-  },
-  {
-    "tps_avg_recent": 3054.7,
-    "avg_slot_time_ms": 413.4,
-    "delinquent_stake_pct": 0.029,
-    "tvl_latest_usd": 4897392244,
-    "price_usd": 77.27
-  },
-  {
-    "tps_avg_recent": 3101.4,
-    "avg_slot_time_ms": 416.3,
-    "delinquent_stake_pct": 0.029,
-    "tvl_latest_usd": 4897148778,
-    "price_usd": 77.21
-  },
-  {
-    "tps_avg_recent": 3161.4,
-    "avg_slot_time_ms": 417.1,
-    "delinquent_stake_pct": 0.029,
-    "tvl_latest_usd": 4897148778,
-    "price_usd": 77.26
-  },
-  {
-    "tps_avg_recent": 3390.5,
-    "avg_slot_time_ms": 412.3,
-    "delinquent_stake_pct": 0.029,
-    "tvl_latest_usd": 4905017698,
-    "price_usd": 77.49
-  },
-  {
-    "tps_avg_recent": 3131.0,
-    "avg_slot_time_ms": 412.8,
-    "delinquent_stake_pct": 0.027,
-    "tvl_latest_usd": 4905017698,
-    "price_usd": 77.46
-  },
-  {
-    "tps_avg_recent": 4213.3,
-    "avg_slot_time_ms": 419.7,
-    "delinquent_stake_pct": 0.099,
-    "tvl_latest_usd": 4915853675,
-    "price_usd": 77.64
-  },
-  {
-    "tps_avg_recent": 4925.2,
-    "avg_slot_time_ms": 417.0,
-    "delinquent_stake_pct": 0.171,
-    "tvl_latest_usd": 4916052224,
-    "price_usd": 78.32
-  },
-  {
-    "tps_avg_recent": 4823.2,
-    "avg_slot_time_ms": 416.6,
-    "delinquent_stake_pct": 0.095,
-    "tvl_latest_usd": 4925421707,
-    "price_usd": 78.53
-  },
-  {
-    "tps_avg_recent": 5739.5,
-    "avg_slot_time_ms": 418.4,
-    "delinquent_stake_pct": 0.095,
-    "tvl_latest_usd": 4934049996,
-    "price_usd": 81.74
-  },
-  {
-    "tps_avg_recent": 5690.4,
-    "avg_slot_time_ms": 421.2,
-    "delinquent_stake_pct": 0.188,
-    "tvl_latest_usd": 4934049996,
-    "price_usd": 81.83
-  },
-  {
-    "tps_avg_recent": 5912.1,
-    "avg_slot_time_ms": 421.3,
-    "delinquent_stake_pct": 0.171,
-    "tvl_latest_usd": 4934473899,
-    "price_usd": 81.93
-  },
-  {
-    "tps_avg_recent": 5227.5,
-    "avg_slot_time_ms": 417.2,
-    "delinquent_stake_pct": 0.099,
-    "tvl_latest_usd": 5054170251,
-    "price_usd": 81.17
-  },
-  {
-    "tps_avg_recent": 5080.9,
-    "avg_slot_time_ms": 416.8,
-    "delinquent_stake_pct": 0.099,
-    "tvl_latest_usd": 5054175076,
-    "price_usd": 81.59
-  },
-  {
-    "tps_avg_recent": 4868.2,
-    "avg_slot_time_ms": 416.4,
-    "delinquent_stake_pct": 0.099,
-    "tvl_latest_usd": 5073586163,
-    "price_usd": 81.92
-  },
-  {
-    "tps_avg_recent": 5146.4,
-    "avg_slot_time_ms": 417.8,
-    "delinquent_stake_pct": 0.023,
-    "tvl_latest_usd": 5079044755,
-    "price_usd": 82.4
-  },
-  {
-    "tps_avg_recent": 4502.5,
-    "avg_slot_time_ms": 413.4,
-    "delinquent_stake_pct": 0.023,
-    "tvl_latest_usd": 5081764121,
-    "price_usd": 82.26
-  },
-  {
-    "tps_avg_recent": 4918.0,
-    "avg_slot_time_ms": 420.4,
-    "delinquent_stake_pct": 0.049,
-    "tvl_latest_usd": 5085822024,
-    "price_usd": 82.39
-  },
-  {
     "tps_avg_recent": 4760.6,
     "avg_slot_time_ms": 419.1,
     "delinquent_stake_pct": 0.048,
@@ -348,5 +166,187 @@
     "delinquent_stake_pct": 0.015,
     "tvl_latest_usd": 5290453921,
     "price_usd": 86.4
+  },
+  {
+    "tps_avg_recent": 4821.6,
+    "avg_slot_time_ms": 417.1,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5289288400,
+    "price_usd": 87.09
+  },
+  {
+    "tps_avg_recent": 4264.8,
+    "avg_slot_time_ms": 416.4,
+    "delinquent_stake_pct": 0.014,
+    "tvl_latest_usd": 5285868791,
+    "price_usd": 86.96
+  },
+  {
+    "tps_avg_recent": 4726.8,
+    "avg_slot_time_ms": 414.6,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5298618943,
+    "price_usd": 87.55
+  },
+  {
+    "tps_avg_recent": 5147.8,
+    "avg_slot_time_ms": 417.5,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5298618943,
+    "price_usd": 87.69
+  },
+  {
+    "tps_avg_recent": 4598.1,
+    "avg_slot_time_ms": 417.4,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5306834506,
+    "price_usd": 86.77
+  },
+  {
+    "tps_avg_recent": 4232.4,
+    "avg_slot_time_ms": 415.9,
+    "delinquent_stake_pct": 0.015,
+    "tvl_latest_usd": 5309693340,
+    "price_usd": 87.35
+  },
+  {
+    "tps_avg_recent": 4315.1,
+    "avg_slot_time_ms": 415.3,
+    "delinquent_stake_pct": 0.015,
+    "tvl_latest_usd": 5300266240,
+    "price_usd": 87.17
+  },
+  {
+    "tps_avg_recent": 4130.1,
+    "avg_slot_time_ms": 413.0,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5305079923,
+    "price_usd": 87.47
+  },
+  {
+    "tps_avg_recent": 4150.0,
+    "avg_slot_time_ms": 418.2,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5305430396,
+    "price_usd": 87.49
+  },
+  {
+    "tps_avg_recent": 3880.2,
+    "avg_slot_time_ms": 415.0,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5282065091,
+    "price_usd": 87.54
+  },
+  {
+    "tps_avg_recent": 4309.3,
+    "avg_slot_time_ms": 415.7,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5282065091,
+    "price_usd": 87.42
+  },
+  {
+    "tps_avg_recent": 4271.4,
+    "avg_slot_time_ms": 417.3,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5280277846,
+    "price_usd": 87.37
+  },
+  {
+    "tps_avg_recent": 4396.9,
+    "avg_slot_time_ms": 415.2,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5282901843,
+    "price_usd": 87.48
+  },
+  {
+    "tps_avg_recent": 4357.3,
+    "avg_slot_time_ms": 414.1,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5284120251,
+    "price_usd": 87.61
+  },
+  {
+    "tps_avg_recent": 4041.8,
+    "avg_slot_time_ms": 414.0,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5236827368,
+    "price_usd": 88.3
+  },
+  {
+    "tps_avg_recent": 4240.0,
+    "avg_slot_time_ms": 415.6,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5313524401,
+    "price_usd": 89.72
+  },
+  {
+    "tps_avg_recent": 3768.2,
+    "avg_slot_time_ms": 418.5,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5339518079,
+    "price_usd": 89.3
+  },
+  {
+    "tps_avg_recent": 3432.6,
+    "avg_slot_time_ms": 415.5,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5339852750,
+    "price_usd": 89.09
+  },
+  {
+    "tps_avg_recent": 3290.6,
+    "avg_slot_time_ms": 414.0,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5342204395,
+    "price_usd": 89.53
+  },
+  {
+    "tps_avg_recent": 3232.9,
+    "avg_slot_time_ms": 414.2,
+    "delinquent_stake_pct": 0.001,
+    "tvl_latest_usd": 5372198947,
+    "price_usd": 90.34
+  },
+  {
+    "tps_avg_recent": 3567.6,
+    "avg_slot_time_ms": 414.1,
+    "delinquent_stake_pct": 0.017,
+    "tvl_latest_usd": 5384056178,
+    "price_usd": 90.15
+  },
+  {
+    "tps_avg_recent": 4492.9,
+    "avg_slot_time_ms": 366.5,
+    "delinquent_stake_pct": 0.12,
+    "tvl_latest_usd": 5383650476,
+    "price_usd": 91.74
+  },
+  {
+    "tps_avg_recent": 4408.7,
+    "avg_slot_time_ms": 363.7,
+    "delinquent_stake_pct": 0.117,
+    "tvl_latest_usd": 5445037529,
+    "price_usd": 91.24
+  },
+  {
+    "tps_avg_recent": 4127.6,
+    "avg_slot_time_ms": 366.9,
+    "delinquent_stake_pct": 0.149,
+    "tvl_latest_usd": 5445038656,
+    "price_usd": 91.02
+  },
+  {
+    "tps_avg_recent": 3982.3,
+    "avg_slot_time_ms": 367.6,
+    "delinquent_stake_pct": 0.1,
+    "tvl_latest_usd": 5449757892,
+    "price_usd": 91.5
+  },
+  {
+    "tps_avg_recent": 3998.0,
+    "avg_slot_time_ms": 367.1,
+    "delinquent_stake_pct": 0.1,
+    "tvl_latest_usd": 5449757892,
+    "price_usd": 91.42
   }
 ]
