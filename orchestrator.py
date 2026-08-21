@@ -25,7 +25,7 @@ import config
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 import anomaly
-from fetchers import rpc, defillama, coingecko, dune, twitter, solana_data_site, glassnode, cmc
+from fetchers import rpc, defillama, coingecko, twitter, solana_data_site, glassnode, cmc
 from reporters import json_report, markdown_report, html_report
 
 
@@ -49,7 +49,6 @@ def collect_report(use_mock=False):
         ("network", client.network_snapshot),
         ("defillama", defillama.snapshot),
         ("coingecko", coingecko.snapshot),
-        ("dune", dune.snapshot),
         ("twitter", twitter.snapshot),
         ("solana_data_site", solana_data_site.snapshot),
         ("glassnode", glassnode.snapshot),

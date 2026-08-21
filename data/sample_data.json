@@ -120,14 +120,6 @@
     "as_of_utc": 1754006400,
     "errors": []
   },
-  "dune": {
-    "available": true,
-    "results": {
-      "daily_active_addresses": {"rows": [{"day": "2026-08-10", "active_addresses": 1301200}], "executed_at": "2026-08-10T09:00:00Z"},
-      "dex_daily_active_users": {"rows": [{"day": "2026-08-10", "dau": 214300}], "executed_at": "2026-08-10T09:00:00Z"}
-    },
-    "errors": []
-  },
   "coingecko": {
     "price_usd": 214.37,
     "market_cap_usd": 113400000000,

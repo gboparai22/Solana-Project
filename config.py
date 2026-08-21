@@ -108,18 +108,6 @@ GLASSNODE_ASSET = "SOL"
 GLASSNODE_ACTIVE_ADDRESSES_URL = "https://api.glassnode.com/v1/metrics/addresses/active_count"
 
 # ---------------------------------------------------------------------------
-# Dune Analytics — OPTIONAL. Requires DUNE_API_KEY env var. Without a key
-# this section is skipped gracefully and flagged as "unavailable" in reports.
-# Point DUNE_QUERY_IDS at your own saved Dune queries (query must already
-# exist in your Dune account / be public) — SolPulse only reads latest
-# results, it does not create queries for you.
-# ---------------------------------------------------------------------------
-DUNE_API_KEY = os.environ.get("DUNE_API_KEY", "")
-DUNE_QUERY_IDS = {
-     "daily_active_addresses": 8389816,
-}
-
-# ---------------------------------------------------------------------------
 # Twitter / X — OPTIONAL. Requires TWITTER_BEARER_TOKEN env var (X API v2).
 # Without a token this section is skipped gracefully.
 # ---------------------------------------------------------------------------

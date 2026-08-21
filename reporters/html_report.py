@@ -286,8 +286,6 @@ TEMPLATE = """<!DOCTYPE html>
     <div class="card">
       <h2><span class="dot" style="background:var(--purple)"></span>Ecosystem Growth</h2>
       <div class="metric-row"><span class="k">Daily active addresses (Glassnode)</span><span class="v">{daily_active_addresses}</span></div>
-      <div class="metric-row"><span class="k">Daily active addresses (Dune)</span><span class="v">{dune_daa}</span></div>
-      <div class="metric-row"><span class="k">DEX daily active users (Dune)</span><span class="v">{dune_dex_dau}</span></div>
       <div class="metric-row"><span class="k">Median priority fee</span><span class="v">{median_priority_fee}</span></div>
       <div class="metric-row"><span class="k">Tokenized RWA volume (Solana)</span><span class="v">{rwa_tvl}</span></div>
       <div class="roadmap-desc" style="margin-top:8px;">RWA figure covers DeFiLlama's broader Real-World-Assets category (treasuries, private credit, real estate) — not verified equities-only, which is what the brief specifically names.</div>
@@ -323,34 +321,12 @@ def _alert_html(a):
     return f'<div class="alert {a["severity"]}">{icon}&nbsp; <strong>{a["severity"].upper()}</strong>&nbsp; — {a["message"]}</div>'
 
 
-def _extract_dune_value(dune, label):
-    """
-    Best-effort pull of a single headline number out of a Dune query's raw
-    rows. We don't control the column names of third-party public queries,
-    so this grabs the first numeric field on the last row rather than
-    guessing a specific key — safe against schema differences, but NOT
-    guaranteed to be the exact metric you expect. Sanity-check once against
-    report.json before trusting this number in a review.
-    """
-    if not dune.get("available"):
-        return "n/a"
-    result = (dune.get("results") or {}).get(label)
-    rows = (result or {}).get("rows") or []
-    if not rows:
-        return "n/a"
-    for v in rows[-1].values():
-        if isinstance(v, (int, float)):
-            return f"{v:,.0f}"
-    return "n/a"
-
-
 def render(report):
     net = report.get("network", {}) or {}
     votes = net.get("vote_accounts_summary", {}) or {}
     tvl = report.get("defillama", {}) or {}
     price_data = report.get("coingecko", {}) or {}
     twitter = report.get("twitter", {}) or {}
-    dune = report.get("dune", {}) or {}
     site = report.get("solana_data_site", {}) or {}
     glassnode = report.get("glassnode", {}) or {}
     anomalies = report.get("anomalies", [])
@@ -413,7 +389,6 @@ def render(report):
         status_row("Solana RPC", not net.get("errors"), "; ".join(net.get("errors", []))[:120]),
         status_row("DeFiLlama", not tvl.get("errors"), "; ".join(tvl.get("errors", []))[:120]),
         status_row("CoinGecko", not price_data.get("errors"), "; ".join(price_data.get("errors", []))[:120]),
-        status_row("Dune Analytics", dune.get("available", False), dune.get("reason", "")),
         status_row("Twitter / X", twitter.get("available", False), twitter.get("reason", "")),
         status_row("solana.com/data", site.get("available", False), "; ".join(site.get("errors", []))[:120]),
         status_row("Glassnode", glassnode.get("available", False), glassnode.get("reason", "")),
@@ -458,8 +433,6 @@ def render(report):
             else "n/a"
         ),
         rwa_tvl=_fmt_usd(tvl.get("rwa_tvl_usd")),
-        dune_daa=_extract_dune_value(dune, "daily_active_addresses"),
-        dune_dex_dau=_extract_dune_value(dune, "dex_daily_active_users"),
         tvl_points=len(tvl_values),
         tvl_sparkline=sparkline_pts,
         alerts_html=alerts_html,

@@ -21,7 +21,6 @@ def render(report):
     votes = net.get("vote_accounts_summary", {}) or {}
     tvl = report.get("defillama", {}) or {}
     price = report.get("coingecko", {}) or {}
-    dune = report.get("dune", {}) or {}
     twitter = report.get("twitter", {}) or {}
     site = report.get("solana_data_site", {}) or {}
     anomalies = report.get("anomalies", [])
@@ -31,7 +30,6 @@ def render(report):
     lines.append(f"# SolPulse — Solana Ecosystem Report")
     lines.append(f"_Generated {report.get('generated_at_utc')} UTC_\n")
 
-    # --- Anomalies up top so they're impossible to miss ---
     if anomalies:
         lines.append("## ⚠️ Anomalies Detected")
         for a in anomalies:
@@ -41,7 +39,6 @@ def render(report):
     else:
         lines.append("## ✅ No anomalies detected this cycle\n")
 
-    # --- Network performance ---
     lines.append("## Network Performance")
     lines.append(f"- Health: `{net.get('health')}`")
     lines.append(f"- Current slot: `{net.get('slot')}`")
@@ -65,7 +62,6 @@ def render(report):
         lines.append(f"- ⚠️ Partial data — errors: {'; '.join(net['errors'])}")
     lines.append("")
 
-    # --- Validators ---
     lines.append("## Validator Status")
     lines.append(f"- Active validators: **{votes.get('active_validator_count', 'n/a')}**")
     lines.append(f"- Delinquent validators: **{votes.get('delinquent_validator_count', 'n/a')}**")
@@ -80,7 +76,6 @@ def render(report):
             )
     lines.append("")
 
-    # --- Economic indicators ---
     lines.append("## Economic Indicators")
     lines.append(f"- SOL price: **${price.get('price_usd', 'n/a')}** "
                  f"(24h {_fmt_pct(price.get('change_24h_pct'))})")
@@ -94,7 +89,6 @@ def render(report):
                      f"_(REV proxy — fees only, not fees + priority fees + issuance)_")
     lines.append("")
 
-    # --- Ecosystem growth ---
     glassnode = report.get("glassnode", {}) or {}
     lines.append("## Ecosystem Growth")
     if glassnode.get("available"):
@@ -103,15 +97,6 @@ def render(report):
                      else f"- Daily active addresses (Glassnode): **{glassnode.get('daily_active_addresses')}**")
     else:
         lines.append(f"- Daily active addresses (Glassnode): _{glassnode.get('reason', 'unavailable')}_")
-    if dune.get("available"):
-        daa_dune = dune.get("results", {}).get("daily_active_addresses", {})
-        dex_dune = dune.get("results", {}).get("dex_daily_active_users", {})
-        if daa_dune.get("rows"):
-            lines.append(f"- Daily active addresses (Dune, cross-check): {len(daa_dune['rows'])} rows returned "
-                         f"— see report.json for raw figures (executed {daa_dune.get('executed_at')})")
-        if dex_dune.get("rows"):
-            lines.append(f"- DEX daily active users (Dune): {len(dex_dune['rows'])} rows returned "
-                         f"— see report.json for raw figures (executed {dex_dune.get('executed_at')})")
     if tvl.get("rwa_tvl_usd") is not None:
         lines.append(f"- Tokenized RWA volume on Solana: **{_fmt_usd(tvl.get('rwa_tvl_usd'))}** "
                      f"across {tvl.get('rwa_protocol_count', 0)} protocol(s) "
@@ -120,7 +105,6 @@ def render(report):
             lines.append(f"  - {p['name']}: {_fmt_usd(p['tvl_usd'])}")
     lines.append("")
 
-    # --- Ecosystem / community news ---
     lines.append("## Ecosystem & Community")
     if twitter.get("available"):
         for user, tweets in twitter.get("accounts", {}).items():
@@ -133,21 +117,12 @@ def render(report):
             lines.append(f"  - {url}")
     lines.append("")
 
-    if dune.get("available"):
-        lines.append("**Dune Analytics**")
-        for label, res in dune.get("results", {}).items():
-            lines.append(f"  - `{label}`: {len(res.get('rows', []))} rows (executed {res.get('executed_at')})")
-    else:
-        lines.append(f"_Dune Analytics: {dune.get('reason', 'unavailable')}_")
-    lines.append("")
-
     if site.get("available"):
         lines.append(f"_solana.com/data: page sections found — {site.get('extracted', {}).get('props_keys')}_")
     else:
         lines.append(f"_solana.com/data: {'; '.join(site.get('errors', ['unavailable']))}_")
     lines.append("")
 
-    # --- Roadmap ---
     lines.append("## Upcoming Upgrades & Developments")
     for item in roadmap:
         lines.append(f"- **{item['name']}** ({item['status']}): {item['description']}")
@@ -155,7 +130,7 @@ def render(report):
 
     lines.append("---")
     lines.append("_SolPulse — autonomous Solana ecosystem monitor. "
-                 "See README.md for data source notes and setup for optional Dune/Twitter keys._")
+                 "See README.md for data source notes and setup for optional Twitter/Glassnode/CMC keys._")
 
     return "\n".join(lines)
 
