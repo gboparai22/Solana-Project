@@ -1,22 +1,23 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-21T21:48:47Z UTC_
+_Generated 2026-08-21T22:22:35Z UTC_
 
-## ✅ No anomalies detected this cycle
+## ⚠️ Anomalies Detected
+- 🟡 **[WARNING]** Delinquent stake (0.492%) is 10.1 std-devs above its recent average.
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `440777984`
-- Block height: `418827553`
-- Epoch: `1020` (31.9% complete)
-- Avg TPS (recent samples): **4498.7**
-- Latest TPS sample: **4110.1**
-- Avg slot time: **364.8 ms**
+- Current slot: `440783527`
+- Block height: `418833091`
+- Epoch: `1020` (33.2% complete)
+- Avg TPS (recent samples): **4299.8**
+- Latest TPS sample: **4303.9**
+- Avg slot time: **365.1 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **685**
-- Delinquent validators: **9**
-- Delinquent stake: **0.02%**
+- Active validators: **675**
+- Delinquent validators: **19**
+- Delinquent stake: **0.492%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,17 +33,17 @@ _Generated 2026-08-21T21:48:47Z UTC_
 | 10 | `DumiCKHVqo…` | 6,547,243 | 0 |
 
 ## Economic Indicators
-- SOL price: **$93.13** (24h +6.39%)
-- Market cap: **$54.30B**
-- 24h volume: **$6.25B**
+- SOL price: **$93.79** (24h +7.29%)
+- Market cap: **$54.68B**
+- 24h volume: **$6.43B**
 - Chain TVL: **$5.45B**
-- Stablecoin supply on Solana: **$15.78B**
+- Stablecoin supply on Solana: **$15.73B**
 - 24h DEX volume: **$2.77B**
 - 24h protocol fees: **$11.08M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,597,976**
-- Tokenized RWA volume on Solana: **$9.75B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.62B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.39B
   - Ondo Yield Assets: $2.52B
   - Ondo Global Markets: $968.54M
