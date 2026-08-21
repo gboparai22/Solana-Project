@@ -1,12 +1,5 @@
 [
   {
-    "tps_avg_recent": 5114.7,
-    "avg_slot_time_ms": 418.3,
-    "delinquent_stake_pct": 0.023,
-    "tvl_latest_usd": 5099526492,
-    "price_usd": 86.64
-  },
-  {
     "tps_avg_recent": 4669.6,
     "avg_slot_time_ms": 418.5,
     "delinquent_stake_pct": 0.023,
@@ -348,5 +341,12 @@
     "delinquent_stake_pct": 0.07,
     "tvl_latest_usd": 5473838329,
     "price_usd": 90.9
+  },
+  {
+    "tps_avg_recent": 4159.9,
+    "avg_slot_time_ms": 366.7,
+    "delinquent_stake_pct": 0.117,
+    "tvl_latest_usd": 5464028592,
+    "price_usd": 90.86
   }
 ]
