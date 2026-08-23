@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-23T05:56:07Z UTC_
+_Generated 2026-08-23T06:41:54Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `441093194`
-- Block height: `419142371`
-- Epoch: `1021` (4.9% complete)
-- Avg TPS (recent samples): **3431.7**
-- Latest TPS sample: **3235.6**
-- Avg slot time: **364.4 ms**
+- Current slot: `441100728`
+- Block height: `419149905`
+- Epoch: `1021` (6.7% complete)
+- Avg TPS (recent samples): **3624.0**
+- Latest TPS sample: **3610.4**
+- Avg slot time: **363.7 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,11 +32,11 @@ _Generated 2026-08-23T05:56:07Z UTC_
 | 10 | `DumiCKHVqo…` | 6,568,551 | 0 |
 
 ## Economic Indicators
-- SOL price: **$92.53** (24h -1.90%)
-- Market cap: **$53.96B**
-- 24h volume: **$5.52B**
+- SOL price: **$92.46** (24h -2.42%)
+- Market cap: **$53.93B**
+- 24h volume: **$5.27B**
 - Chain TVL: **$5.54B**
-- Stablecoin supply on Solana: **$15.80B**
+- Stablecoin supply on Solana: **$15.79B**
 - 24h DEX volume: **$3.65B**
 - 24h protocol fees: **$11.92M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
@@ -45,9 +45,9 @@ _Generated 2026-08-23T05:56:07Z UTC_
 - Tokenized RWA volume on Solana: **$9.63B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.39B
   - Ondo Yield Assets: $2.51B
-  - Ondo Global Markets: $968.41M
+  - Ondo Global Markets: $967.15M
   - Invesco USTB: $639.38M
-  - Hastra: $603.90M
+  - Hastra: $603.93M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
