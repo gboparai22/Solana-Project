@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-24T13:56:47Z UTC_
+_Generated 2026-08-24T14:39:45Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `441408787`
-- Block height: `419457777`
-- Epoch: `1021` (78.0% complete)
-- Avg TPS (recent samples): **5029.2**
-- Latest TPS sample: **4846.9**
-- Avg slot time: **364.8 ms**
+- Current slot: `441415848`
+- Block height: `419464832`
+- Epoch: `1021` (79.6% complete)
+- Avg TPS (recent samples): **4373.7**
+- Latest TPS sample: **4237.9**
+- Avg slot time: **365.4 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
 - Active validators: **685**
 - Delinquent validators: **10**
-- Delinquent stake: **0.403%**
+- Delinquent stake: **0.202%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,21 +32,21 @@ _Generated 2026-08-24T13:56:47Z UTC_
 | 10 | `DumiCKHVqo…` | 6,568,551 | 0 |
 
 ## Economic Indicators
-- SOL price: **$94.7** (24h -0.72%)
-- Market cap: **$55.23B**
-- 24h volume: **$4.36B**
-- Chain TVL: **$5.57B**
-- Stablecoin supply on Solana: **$15.76B**
+- SOL price: **$96.39** (24h +1.03%)
+- Market cap: **$56.22B**
+- 24h volume: **$4.40B**
+- Chain TVL: **$5.59B**
+- Stablecoin supply on Solana: **$15.73B**
 - 24h DEX volume: **$2.94B**
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,677,845**
-- Tokenized RWA volume on Solana: **$9.64B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.65B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.39B
   - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $966.75M
-  - Invesco USTB: $643.43M
-  - Hastra: $604.68M
+  - Ondo Global Markets: $968.80M
+  - Invesco USTB: $643.40M
+  - Hastra: $604.12M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
