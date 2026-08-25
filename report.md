@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-25T17:29:47Z UTC_
+_Generated 2026-08-25T17:59:59Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `441679747`
-- Block height: `419728445`
-- Epoch: `1022` (40.7% complete)
-- Avg TPS (recent samples): **4630.5**
-- Latest TPS sample: **4669.9**
-- Avg slot time: **366.5 ms**
+- Current slot: `441684695`
+- Block height: `419733374`
+- Epoch: `1022` (41.8% complete)
+- Avg TPS (recent samples): **4555.1**
+- Latest TPS sample: **4576.4**
+- Avg slot time: **366.0 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-08-25T17:29:47Z UTC_
 | 10 | `DumiCKHVqo…` | 6,574,676 | 0 |
 
 ## Economic Indicators
-- SOL price: **$97.59** (24h +2.58%)
-- Market cap: **$57.12B**
-- 24h volume: **$6.57B**
-- Chain TVL: **$5.65B**
+- SOL price: **$98.13** (24h +2.97%)
+- Market cap: **$57.24B**
+- 24h volume: **$6.50B**
+- Chain TVL: **$5.64B**
 - Stablecoin supply on Solana: **$15.80B**
 - 24h DEX volume: **$3.00B**
 - 24h protocol fees: **$14.49M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,599,996**
-- Tokenized RWA volume on Solana: **$9.73B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.74B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.45B
-  - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $983.40M
-  - Invesco USTB: $643.68M
-  - Hastra: $606.63M
+  - Ondo Yield Assets: $2.53B
+  - Ondo Global Markets: $983.57M
+  - Invesco USTB: $643.88M
+  - Hastra: $602.88M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
