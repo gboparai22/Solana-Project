@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-25T03:46:50Z UTC_
+_Generated 2026-08-25T04:37:04Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `441544706`
-- Block height: `419593518`
-- Epoch: `1022` (9.4% complete)
-- Avg TPS (recent samples): **4406.4**
-- Latest TPS sample: **4323.0**
-- Avg slot time: **366.4 ms**
+- Current slot: `441552945`
+- Block height: `419601754`
+- Epoch: `1022` (11.3% complete)
+- Avg TPS (recent samples): **3618.6**
+- Latest TPS sample: **3264.7**
+- Avg slot time: **366.1 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,21 +32,21 @@ _Generated 2026-08-25T03:46:50Z UTC_
 | 10 | `DumiCKHVqo…` | 6,574,676 | 0 |
 
 ## Economic Indicators
-- SOL price: **$101.63** (24h +8.27%)
-- Market cap: **$59.29B**
-- 24h volume: **$7.15B**
-- Chain TVL: **$5.77B**
-- Stablecoin supply on Solana: **$15.85B**
+- SOL price: **$101.27** (24h +7.49%)
+- Market cap: **$59.07B**
+- 24h volume: **$7.20B**
+- Chain TVL: **$5.79B**
+- Stablecoin supply on Solana: **$15.87B**
 - 24h DEX volume: **$2.99B**
-- 24h protocol fees: **$13.11M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$12.80M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,599,996**
-- Tokenized RWA volume on Solana: **$9.72B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.71B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.45B
-  - Ondo Yield Assets: $2.53B
-  - Ondo Global Markets: $971.76M
-  - Invesco USTB: $644.48M
+  - Ondo Yield Assets: $2.52B
+  - Ondo Global Markets: $972.67M
+  - Invesco USTB: $644.47M
   - Hastra: $602.85M
 
 ## Ecosystem & Community
