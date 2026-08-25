@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-25T12:43:10Z UTC_
+_Generated 2026-08-25T13:48:45Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `441632857`
-- Block height: `419681615`
-- Epoch: `1022` (29.8% complete)
-- Avg TPS (recent samples): **4071.0**
-- Latest TPS sample: **4002.3**
-- Avg slot time: **366.6 ms**
+- Current slot: `441643585`
+- Block height: `419692332`
+- Epoch: `1022` (32.3% complete)
+- Avg TPS (recent samples): **4794.3**
+- Latest TPS sample: **5029.3**
+- Avg slot time: **367.8 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-08-25T12:43:10Z UTC_
 | 10 | `DumiCKHVqo…` | 6,574,676 | 0 |
 
 ## Economic Indicators
-- SOL price: **$98.0** (24h +2.16%)
-- Market cap: **$57.18B**
-- 24h volume: **$7.22B**
-- Chain TVL: **$5.74B**
-- Stablecoin supply on Solana: **$15.84B**
+- SOL price: **$97.21** (24h +2.49%)
+- Market cap: **$56.71B**
+- 24h volume: **$7.08B**
+- Chain TVL: **$5.69B**
+- Stablecoin supply on Solana: **$15.91B**
 - 24h DEX volume: **$3.00B**
 - 24h protocol fees: **$14.39M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,599,996**
-- Tokenized RWA volume on Solana: **$9.72B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.71B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.45B
   - Ondo Yield Assets: $2.53B
-  - Ondo Global Markets: $974.31M
-  - Invesco USTB: $638.73M
-  - Hastra: $606.54M
+  - Ondo Global Markets: $974.12M
+  - Invesco USTB: $637.11M
+  - Hastra: $606.67M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
