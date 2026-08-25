@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-25T23:23:35Z UTC_
+_Generated 2026-08-25T23:48:46Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `441737827`
-- Block height: `419786401`
-- Epoch: `1022` (54.1% complete)
-- Avg TPS (recent samples): **4057.2**
-- Latest TPS sample: **3998.5**
-- Avg slot time: **365.1 ms**
+- Current slot: `441741959`
+- Block height: `419790525`
+- Epoch: `1022` (55.1% complete)
+- Avg TPS (recent samples): **4111.1**
+- Latest TPS sample: **4259.9**
+- Avg slot time: **365.3 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
 - Active validators: **686**
 - Delinquent validators: **9**
-- Delinquent stake: **0.023%**
+- Delinquent stake: **0.038%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,11 +32,11 @@ _Generated 2026-08-25T23:23:35Z UTC_
 | 10 | `DumiCKHVqo…` | 6,574,676 | 0 |
 
 ## Economic Indicators
-- SOL price: **$97.0** (24h -1.05%)
-- Market cap: **$56.61B**
-- 24h volume: **$6.09B**
-- Chain TVL: **$5.58B**
-- Stablecoin supply on Solana: **$15.85B**
+- SOL price: **$96.64** (24h -2.01%)
+- Market cap: **$56.38B**
+- 24h volume: **$5.97B**
+- Chain TVL: **$5.60B**
+- Stablecoin supply on Solana: **$15.92B**
 - 24h DEX volume: **$3.00B**
 - 24h protocol fees: **$14.49M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
@@ -45,9 +45,9 @@ _Generated 2026-08-25T23:23:35Z UTC_
 - Tokenized RWA volume on Solana: **$9.87B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.59B
   - Ondo Yield Assets: $2.54B
-  - Ondo Global Markets: $959.51M
+  - Ondo Global Markets: $960.72M
   - Invesco USTB: $643.88M
-  - Hastra: $601.91M
+  - Hastra: $598.73M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
