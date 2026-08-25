@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-25T02:37:56Z UTC_
+_Generated 2026-08-25T03:46:50Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `441533395`
-- Block height: `419582226`
-- Epoch: `1022` (6.8% complete)
-- Avg TPS (recent samples): **4319.6**
-- Latest TPS sample: **4064.2**
-- Avg slot time: **365.4 ms**
+- Current slot: `441544706`
+- Block height: `419593518`
+- Epoch: `1022` (9.4% complete)
+- Avg TPS (recent samples): **4406.4**
+- Latest TPS sample: **4323.0**
+- Avg slot time: **366.4 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **685**
-- Delinquent validators: **9**
-- Delinquent stake: **0.136%**
+- Active validators: **686**
+- Delinquent validators: **8**
+- Delinquent stake: **0.017%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,19 +32,19 @@ _Generated 2026-08-25T02:37:56Z UTC_
 | 10 | `DumiCKHVqo…` | 6,574,676 | 0 |
 
 ## Economic Indicators
-- SOL price: **$101.87** (24h +7.24%)
-- Market cap: **$59.45B**
-- 24h volume: **$6.84B**
-- Chain TVL: **$5.69B**
-- Stablecoin supply on Solana: **$15.88B**
+- SOL price: **$101.63** (24h +8.27%)
+- Market cap: **$59.29B**
+- 24h volume: **$7.15B**
+- Chain TVL: **$5.77B**
+- Stablecoin supply on Solana: **$15.85B**
 - 24h DEX volume: **$2.99B**
-- 24h protocol fees: **$12.69M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$13.11M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,599,996**
-- Tokenized RWA volume on Solana: **$9.71B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.72B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.45B
-  - Ondo Yield Assets: $2.52B
+  - Ondo Yield Assets: $2.53B
   - Ondo Global Markets: $971.76M
   - Invesco USTB: $644.48M
   - Hastra: $602.85M
