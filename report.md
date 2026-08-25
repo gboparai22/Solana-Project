@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-25T18:51:01Z UTC_
+_Generated 2026-08-25T19:30:20Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `441693070`
-- Block height: `419741742`
-- Epoch: `1022` (43.8% complete)
-- Avg TPS (recent samples): **4222.3**
-- Latest TPS sample: **4366.6**
-- Avg slot time: **365.9 ms**
+- Current slot: `441699544`
+- Block height: `419748215`
+- Epoch: `1022` (45.3% complete)
+- Avg TPS (recent samples): **4044.5**
+- Latest TPS sample: **3889.4**
+- Avg slot time: **364.2 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-08-25T18:51:01Z UTC_
 | 10 | `DumiCKHVqo…` | 6,574,676 | 0 |
 
 ## Economic Indicators
-- SOL price: **$98.71** (24h +2.65%)
-- Market cap: **$57.60B**
-- 24h volume: **$6.50B**
-- Chain TVL: **$5.63B**
-- Stablecoin supply on Solana: **$15.79B**
+- SOL price: **$98.06** (24h +2.25%)
+- Market cap: **$57.21B**
+- 24h volume: **$6.36B**
+- Chain TVL: **$5.64B**
+- Stablecoin supply on Solana: **$15.82B**
 - 24h DEX volume: **$3.00B**
 - 24h protocol fees: **$14.49M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,599,996**
-- Tokenized RWA volume on Solana: **$9.74B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.75B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.45B
-  - Ondo Yield Assets: $2.53B
-  - Ondo Global Markets: $983.57M
+  - Ondo Yield Assets: $2.54B
+  - Ondo Global Markets: $985.37M
   - Invesco USTB: $643.88M
-  - Hastra: $602.88M
+  - Hastra: $602.89M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
