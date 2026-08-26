@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-26T09:39:16Z UTC_
+_Generated 2026-08-26T10:33:06Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `441839110`
-- Block height: `419887632`
-- Epoch: `1022` (77.6% complete)
-- Avg TPS (recent samples): **3462.1**
-- Latest TPS sample: **3360.4**
-- Avg slot time: **363.7 ms**
+- Current slot: `441847949`
+- Block height: `419896470`
+- Epoch: `1022` (79.6% complete)
+- Avg TPS (recent samples): **3617.0**
+- Latest TPS sample: **3751.2**
+- Avg slot time: **365.6 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-08-26T09:39:16Z UTC_
 | 10 | `DumiCKHVqo…` | 6,574,676 | 0 |
 
 ## Economic Indicators
-- SOL price: **$96.28** (24h -4.01%)
-- Market cap: **$56.17B**
-- 24h volume: **$3.54B**
-- Chain TVL: **$5.60B**
-- Stablecoin supply on Solana: **$15.88B**
+- SOL price: **$96.63** (24h -2.87%)
+- Market cap: **$56.36B**
+- 24h volume: **$3.32B**
+- Chain TVL: **$5.59B**
+- Stablecoin supply on Solana: **$15.86B**
 - 24h DEX volume: **$2.95B**
-- 24h protocol fees: **$13.03M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$13.06M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,556,795**
-- Tokenized RWA volume on Solana: **$9.87B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.86B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.59B
   - Ondo Yield Assets: $2.55B
-  - Ondo Global Markets: $959.41M
-  - Invesco USTB: $643.31M
-  - Hastra: $597.83M
+  - Ondo Global Markets: $958.67M
+  - Invesco USTB: $643.51M
+  - Hastra: $597.07M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
