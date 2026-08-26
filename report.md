@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-08-26T11:57:48Z UTC_
+_Generated 2026-08-26T13:03:31Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `441861837`
-- Block height: `419910356`
-- Epoch: `1022` (82.8% complete)
-- Avg TPS (recent samples): **3385.6**
-- Latest TPS sample: **3550.0**
-- Avg slot time: **365.4 ms**
+- Current slot: `441872635`
+- Block height: `419921145`
+- Epoch: `1022` (85.3% complete)
+- Avg TPS (recent samples): **3816.9**
+- Latest TPS sample: **3722.2**
+- Avg slot time: **365.1 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **683**
-- Delinquent validators: **12**
-- Delinquent stake: **0.079%**
+- Active validators: **686**
+- Delinquent validators: **9**
+- Delinquent stake: **0.053%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,10 +32,10 @@ _Generated 2026-08-26T11:57:48Z UTC_
 | 10 | `DumiCKHVqo…` | 6,574,676 | 0 |
 
 ## Economic Indicators
-- SOL price: **$97.05** (24h -1.67%)
-- Market cap: **$56.61B**
-- 24h volume: **$3.37B**
-- Chain TVL: **$5.60B**
+- SOL price: **$97.13** (24h -1.61%)
+- Market cap: **$56.66B**
+- 24h volume: **$3.26B**
+- Chain TVL: **$5.59B**
 - Stablecoin supply on Solana: **$15.84B**
 - 24h DEX volume: **$2.93B**
 - 24h protocol fees: **$13.13M** _(REV proxy — fees only, not fees + priority fees + issuance)_
@@ -45,9 +45,9 @@ _Generated 2026-08-26T11:57:48Z UTC_
 - Tokenized RWA volume on Solana: **$9.86B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.59B
   - Ondo Yield Assets: $2.55B
-  - Ondo Global Markets: $958.67M
+  - Ondo Global Markets: $957.36M
   - Invesco USTB: $642.51M
-  - Hastra: $597.10M
+  - Hastra: $597.09M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
