@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-01T01:22:07Z UTC_
+_Generated 2026-09-01T06:33:18Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `443297602`
-- Block height: `421345214`
-- Epoch: `1026` (15.2% complete)
-- Avg TPS (recent samples): **4108.9**
-- Latest TPS sample: **4248.7**
-- Avg slot time: **317.9 ms**
+- Current slot: `443356362`
+- Block height: `421403954`
+- Epoch: `1026` (28.8% complete)
+- Avg TPS (recent samples): **3361.2**
+- Latest TPS sample: **3362.0**
+- Avg slot time: **318.3 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **682**
-- Delinquent validators: **12**
-- Delinquent stake: **0.005%**
+- Active validators: **679**
+- Delinquent validators: **15**
+- Delinquent stake: **0.012%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,21 +32,21 @@ _Generated 2026-09-01T01:22:07Z UTC_
 | 10 | `DumiCKHVqo…` | 6,591,885 | 0 |
 
 ## Economic Indicators
-- SOL price: **$103.15** (24h +1.29%)
-- Market cap: **$60.37B**
-- 24h volume: **$3.16B**
-- Chain TVL: **$5.96B**
-- Stablecoin supply on Solana: **$15.73B**
+- SOL price: **$103.94** (24h +1.28%)
+- Market cap: **$60.83B**
+- 24h volume: **$2.92B**
+- Chain TVL: **$5.84B**
+- Stablecoin supply on Solana: **$15.81B**
 - 24h DEX volume: **$2.46B**
-- 24h protocol fees: **$12.49M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$13.29M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,715,926**
 - Tokenized RWA volume on Solana: **$9.86B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.61B
   - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $952.15M
-  - Invesco USTB: $642.91M
+  - Ondo Global Markets: $953.01M
+  - Invesco USTB: $642.88M
   - Hastra: $596.53M
 
 ## Ecosystem & Community
