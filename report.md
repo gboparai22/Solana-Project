@@ -1,15 +1,15 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-01T06:33:18Z UTC_
+_Generated 2026-09-01T12:21:21Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `443356362`
-- Block height: `421403954`
-- Epoch: `1026` (28.8% complete)
-- Avg TPS (recent samples): **3361.2**
-- Latest TPS sample: **3362.0**
+- Current slot: `443422135`
+- Block height: `421469721`
+- Epoch: `1026` (44.0% complete)
+- Avg TPS (recent samples): **3548.7**
+- Latest TPS sample: **3685.3**
 - Avg slot time: **318.3 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
@@ -32,22 +32,22 @@ _Generated 2026-09-01T06:33:18Z UTC_
 | 10 | `DumiCKHVqo…` | 6,591,885 | 0 |
 
 ## Economic Indicators
-- SOL price: **$103.94** (24h +1.28%)
-- Market cap: **$60.83B**
-- 24h volume: **$2.92B**
-- Chain TVL: **$5.84B**
-- Stablecoin supply on Solana: **$15.81B**
-- 24h DEX volume: **$2.46B**
-- 24h protocol fees: **$13.29M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$102.24** (24h -1.22%)
+- Market cap: **$59.84B**
+- 24h volume: **$3.00B**
+- Chain TVL: **$5.80B**
+- Stablecoin supply on Solana: **$15.83B**
+- 24h DEX volume: **$2.50B**
+- 24h protocol fees: **$13.39M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,715,926**
-- Tokenized RWA volume on Solana: **$9.86B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$9.85B** across 24 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.61B
   - Ondo Yield Assets: $2.52B
-  - Ondo Global Markets: $953.01M
-  - Invesco USTB: $642.88M
-  - Hastra: $596.53M
+  - Ondo Global Markets: $942.64M
+  - Invesco USTB: $642.40M
+  - Hastra: $598.47M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
