@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-05T21:29:35Z UTC_
+_Generated 2026-09-05T23:12:25Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `444622256`
-- Block height: `422666671`
-- Epoch: `1029` (21.8% complete)
-- Avg TPS (recent samples): **3285.0**
-- Latest TPS sample: **3327.8**
-- Avg slot time: **315.3 ms**
+- Current slot: `444641839`
+- Block height: `422686246`
+- Epoch: `1029` (26.4% complete)
+- Avg TPS (recent samples): **3263.5**
+- Latest TPS sample: **3104.8**
+- Avg slot time: **314.4 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **677**
-- Delinquent validators: **16**
-- Delinquent stake: **0.013%**
+- Active validators: **676**
+- Delinquent validators: **17**
+- Delinquent stake: **0.018%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,20 +32,20 @@ _Generated 2026-09-05T21:29:35Z UTC_
 | 10 | `DumiCKHVqo…` | 6,594,606 | 0 |
 
 ## Economic Indicators
-- SOL price: **$103.8** (24h +2.02%)
-- Market cap: **$60.77B**
+- SOL price: **$103.21** (24h +1.37%)
+- Market cap: **$60.43B**
 - 24h volume: **$2.37B**
 - Chain TVL: **$5.92B**
-- Stablecoin supply on Solana: **$16.30B**
+- Stablecoin supply on Solana: **$16.29B**
 - 24h DEX volume: **$1.88B**
 - 24h protocol fees: **$10.44M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,850,743**
-- Tokenized RWA volume on Solana: **$10.17B** across 25 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$10.15B** across 25 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.62B
-  - Ondo Yield Assets: $2.54B
-  - Ondo Global Markets: $961.81M
+  - Ondo Yield Assets: $2.53B
+  - Ondo Global Markets: $961.45M
   - Hastra: $602.28M
   - Invesco USTB: $587.24M
 
