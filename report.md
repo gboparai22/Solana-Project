@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-07T18:07:19Z UTC_
+_Generated 2026-09-07T21:41:47Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `445129432`
-- Block height: `423173639`
-- Epoch: `1030` (39.2% complete)
-- Avg TPS (recent samples): **4092.0**
-- Latest TPS sample: **4194.4**
-- Avg slot time: **318.2 ms**
+- Current slot: `445170106`
+- Block height: `423214278`
+- Epoch: `1030` (48.6% complete)
+- Avg TPS (recent samples): **3784.7**
+- Latest TPS sample: **3758.6**
+- Avg slot time: **315.2 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
 - Active validators: **675**
 - Delinquent validators: **13**
-- Delinquent stake: **0.041%**
+- Delinquent stake: **0.081%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,21 +32,21 @@ _Generated 2026-09-07T18:07:19Z UTC_
 | 10 | `DumiCKHVqo…` | 6,595,421 | 0 |
 
 ## Economic Indicators
-- SOL price: **$103.94** (24h -2.19%)
-- Market cap: **$60.93B**
-- 24h volume: **$3.28B**
-- Chain TVL: **$5.93B**
-- Stablecoin supply on Solana: **$16.29B**
+- SOL price: **$103.88** (24h -2.07%)
+- Market cap: **$60.89B**
+- 24h volume: **$3.26B**
+- Chain TVL: **$5.91B**
+- Stablecoin supply on Solana: **$16.31B**
 - 24h DEX volume: **$2.90B**
 - 24h protocol fees: **$14.66M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,772,833**
-- Tokenized RWA volume on Solana: **$10.19B** across 25 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$10.20B** across 25 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.62B
   - Ondo Yield Assets: $2.55B
-  - Ondo Global Markets: $962.67M
-  - Hastra: $608.07M
+  - Ondo Global Markets: $964.21M
+  - Hastra: $607.65M
   - Invesco USTB: $589.50M
 
 ## Ecosystem & Community
