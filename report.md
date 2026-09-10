@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-10T19:56:29Z UTC_
+_Generated 2026-09-10T22:19:43Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `445968887`
-- Block height: `424012235`
-- Epoch: `1032` (33.5% complete)
-- Avg TPS (recent samples): **4098.3**
-- Latest TPS sample: **4001.4**
-- Avg slot time: **315.7 ms**
+- Current slot: `445996039`
+- Block height: `424039366`
+- Epoch: `1032` (39.8% complete)
+- Avg TPS (recent samples): **3718.6**
+- Latest TPS sample: **3585.9**
+- Avg slot time: **316.3 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-09-10T19:56:29Z UTC_
 | 10 | `DumiCKHVqo…` | 6,550,397 | 0 |
 
 ## Economic Indicators
-- SOL price: **$99.69** (24h -2.48%)
-- Market cap: **$58.45B**
-- 24h volume: **$3.32B**
-- Chain TVL: **$5.78B**
-- Stablecoin supply on Solana: **$15.93B**
+- SOL price: **$100.0** (24h -1.17%)
+- Market cap: **$58.64B**
+- 24h volume: **$2.95B**
+- Chain TVL: **$5.80B**
+- Stablecoin supply on Solana: **$15.95B**
 - 24h DEX volume: **$3.00B**
 - 24h protocol fees: **$15.72M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **6,387,718**
-- Tokenized RWA volume on Solana: **$9.79B** across 26 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - BlackRock BUIDL: $3.59B
-  - Ondo Yield Assets: $2.56B
-  - Ondo Global Markets: $933.86M
-  - Invesco USTB: $611.68M
-  - Hastra: $607.10M
+- Tokenized RWA volume on Solana: **$9.76B** across 26 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - BlackRock BUIDL: $3.56B
+  - Ondo Yield Assets: $2.55B
+  - Ondo Global Markets: $932.82M
+  - Invesco USTB: $610.77M
+  - Hastra: $604.41M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
