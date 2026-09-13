@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-13T01:17:11Z UTC_
+_Generated 2026-09-13T06:32:35Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `446575117`
-- Block height: `424617839`
-- Epoch: `1033` (73.9% complete)
-- Avg TPS (recent samples): **3609.2**
-- Latest TPS sample: **3544.9**
-- Avg slot time: **316.6 ms**
+- Current slot: `446635196`
+- Block height: `424677894`
+- Epoch: `1033` (87.8% complete)
+- Avg TPS (recent samples): **3398.2**
+- Latest TPS sample: **3332.8**
+- Avg slot time: **315.5 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-09-13T01:17:11Z UTC_
 | 10 | `DumiCKHVqo…` | 6,551,099 | 0 |
 
 ## Economic Indicators
-- SOL price: **$101.89** (24h -0.26%)
-- Market cap: **$59.77B**
-- 24h volume: **$1.84B**
-- Chain TVL: **$5.90B**
-- Stablecoin supply on Solana: **$16.16B**
-- 24h DEX volume: **$2.64B**
-- 24h protocol fees: **$17.88M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$101.51** (24h -0.24%)
+- Market cap: **$59.57B**
+- 24h volume: **$1.77B**
+- Chain TVL: **$5.91B**
+- Stablecoin supply on Solana: **$16.14B**
+- 24h DEX volume: **$2.47B**
+- 24h protocol fees: **$13.91M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,685,758**
 - Tokenized RWA volume on Solana: **$9.75B** across 26 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.54B
   - Ondo Yield Assets: $2.56B
-  - Ondo Global Markets: $939.78M
-  - Invesco USTB: $598.65M
-  - Hastra: $596.83M
+  - Ondo Global Markets: $939.35M
+  - Invesco USTB: $598.84M
+  - Hastra: $596.82M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
