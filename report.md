@@ -1,21 +1,21 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-13T21:33:50Z UTC_
+_Generated 2026-09-13T23:53:10Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `446806487`
-- Block height: `424849068`
-- Epoch: `1034` (27.4% complete)
-- Avg TPS (recent samples): **3734.6**
-- Latest TPS sample: **3668.7**
-- Avg slot time: **315.0 ms**
+- Current slot: `446832946`
+- Block height: `424875512`
+- Epoch: `1034` (33.6% complete)
+- Avg TPS (recent samples): **3966.5**
+- Latest TPS sample: **3901.6**
+- Avg slot time: **315.8 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **677**
-- Delinquent validators: **13**
+- Active validators: **678**
+- Delinquent validators: **12**
 - Delinquent stake: **0.436%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
@@ -32,12 +32,12 @@ _Generated 2026-09-13T21:33:50Z UTC_
 | 10 | `DumiCKHVqo…` | 6,552,506 | 0 |
 
 ## Economic Indicators
-- SOL price: **$101.41** (24h -0.05%)
-- Market cap: **$59.50B**
-- 24h volume: **$1.91B**
+- SOL price: **$99.44** (24h -2.34%)
+- Market cap: **$58.34B**
+- 24h volume: **$2.09B**
 - Chain TVL: **$5.87B**
 - Stablecoin supply on Solana: **$16.04B**
-- 24h DEX volume: **$1.69B**
+- 24h DEX volume: **$1.74B**
 - 24h protocol fees: **$13.52M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
@@ -45,9 +45,9 @@ _Generated 2026-09-13T21:33:50Z UTC_
 - Tokenized RWA volume on Solana: **$9.75B** across 26 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - BlackRock BUIDL: $3.54B
   - Ondo Yield Assets: $2.57B
-  - Ondo Global Markets: $934.65M
-  - Invesco USTB: $598.16M
-  - Hastra: $596.87M
+  - Ondo Global Markets: $935.04M
+  - Invesco USTB: $598.36M
+  - Hastra: $596.84M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
