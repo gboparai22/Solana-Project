@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-16T20:21:58Z UTC_
+_Generated 2026-09-16T23:08:31Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `447612119`
-- Block height: `425653470`
-- Epoch: `1036` (13.9% complete)
-- Avg TPS (recent samples): **4608.8**
-- Latest TPS sample: **4893.1**
-- Avg slot time: **317.2 ms**
+- Current slot: `447643606`
+- Block height: `425684921`
+- Epoch: `1036` (21.2% complete)
+- Avg TPS (recent samples): **4169.6**
+- Latest TPS sample: **4136.9**
+- Avg slot time: **318.8 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **677**
-- Delinquent validators: **14**
-- Delinquent stake: **0.044%**
+- Active validators: **679**
+- Delinquent validators: **12**
+- Delinquent stake: **0.035%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,22 +32,22 @@ _Generated 2026-09-16T20:21:58Z UTC_
 | 10 | `DumiCKHVqo…` | 6,558,592 | 0 |
 
 ## Economic Indicators
-- SOL price: **$98.52** (24h +1.42%)
-- Market cap: **$57.82B**
-- 24h volume: **$3.49B**
-- Chain TVL: **$5.72B**
-- Stablecoin supply on Solana: **$15.40B**
+- SOL price: **$97.56** (24h +0.31%)
+- Market cap: **$57.29B**
+- 24h volume: **$3.33B**
+- Chain TVL: **$5.75B**
+- Stablecoin supply on Solana: **$15.34B**
 - 24h DEX volume: **$2.70B**
 - 24h protocol fees: **$14.08M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,811,256**
 - Tokenized RWA volume on Solana: **$2.53B** across 19 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Ondo Global Markets: $918.91M
+  - Ondo Global Markets: $910.80M
   - Invesco USTB: $528.25M
-  - Huma Finance V2: $318.40M
-  - OnRe: $302.27M
-  - Plume Vaults: $163.04M
+  - Huma Finance V2: $325.01M
+  - OnRe: $302.46M
+  - Plume Vaults: $163.07M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
