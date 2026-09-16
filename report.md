@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-16T01:31:33Z UTC_
+_Generated 2026-09-16T07:15:09Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `447398075`
-- Block height: `425439645`
-- Epoch: `1035` (64.4% complete)
-- Avg TPS (recent samples): **5152.3**
-- Latest TPS sample: **5208.8**
-- Avg slot time: **318.6 ms**
+- Current slot: `447463154`
+- Block height: `425504653`
+- Epoch: `1035` (79.4% complete)
+- Avg TPS (recent samples): **3493.0**
+- Latest TPS sample: **3389.5**
+- Avg slot time: **315.7 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **677**
-- Delinquent validators: **12**
-- Delinquent stake: **0.105%**
+- Active validators: **678**
+- Delinquent validators: **11**
+- Delinquent stake: **0.036%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,21 +32,21 @@ _Generated 2026-09-16T01:31:33Z UTC_
 | 10 | `DumiCKHVqo…` | 6,553,626 | 0 |
 
 ## Economic Indicators
-- SOL price: **$97.06** (24h -5.01%)
-- Market cap: **$57.03B**
-- 24h volume: **$3.86B**
+- SOL price: **$97.06** (24h -3.68%)
+- Market cap: **$56.98B**
+- 24h volume: **$3.95B**
 - Chain TVL: **$5.72B**
-- Stablecoin supply on Solana: **$15.58B**
-- 24h DEX volume: **$2.44B**
-- 24h protocol fees: **$13.95M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- Stablecoin supply on Solana: **$15.50B**
+- 24h DEX volume: **$2.50B**
+- 24h protocol fees: **$14.22M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,811,256**
 - Tokenized RWA volume on Solana: **$1.63B** across 18 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $543.08M
-  - Huma Finance V2: $315.87M
-  - OnRe: $300.66M
-  - Plume Vaults: $161.27M
+  - Invesco USTB: $544.99M
+  - Huma Finance V2: $316.01M
+  - OnRe: $300.67M
+  - Plume Vaults: $161.23M
   - Midas RWA: $154.54M
 
 ## Ecosystem & Community
