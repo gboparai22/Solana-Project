@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-20T22:36:26Z UTC_
+_Generated 2026-09-21T00:50:36Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `448868160`
-- Block height: `426908814`
-- Epoch: `1039` (4.7% complete)
-- Avg TPS (recent samples): **4698.7**
-- Latest TPS sample: **4866.9**
-- Avg slot time: **267.6 ms**
+- Current slot: `448898293`
+- Block height: `426938939`
+- Epoch: `1039` (11.6% complete)
+- Avg TPS (recent samples): **4675.2**
+- Latest TPS sample: **4402.0**
+- Avg slot time: **266.1 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,20 +32,20 @@ _Generated 2026-09-20T22:36:26Z UTC_
 | 10 | `DumiCKHVqo…` | 6,572,007 | 0 |
 
 ## Economic Indicators
-- SOL price: **$110.43** (24h +0.16%)
-- Market cap: **$64.87B**
-- 24h volume: **$3.11B**
-- Chain TVL: **$6.21B**
-- Stablecoin supply on Solana: **$16.51B**
-- 24h DEX volume: **$2.88B**
-- 24h protocol fees: **$15.28M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$112.7** (24h +1.57%)
+- Market cap: **$66.13B**
+- 24h volume: **$3.47B**
+- Chain TVL: **$6.22B**
+- Stablecoin supply on Solana: **$15.54B**
+- 24h DEX volume: **$2.85B**
+- 24h protocol fees: **$14.97M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): **6,688,729**
+- Daily active addresses (Glassnode): **6,137,139**
 - Tokenized RWA volume on Solana: **$2.45B** across 17 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Ondo Global Markets: $952.31M
-  - Invesco USTB: $547.51M
-  - Huma Finance V2: $353.24M
+  - Ondo Global Markets: $954.65M
+  - Invesco USTB: $547.50M
+  - Huma Finance V2: $353.23M
   - OnRe: $304.14M
   - Plume Vaults: $207.67M
 
