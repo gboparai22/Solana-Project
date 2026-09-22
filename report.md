@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-22T06:33:40Z UTC_
+_Generated 2026-09-22T12:21:13Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `449298871`
-- Block height: `427339348`
-- Epoch: `1040` (4.4% complete)
-- Avg TPS (recent samples): **4075.0**
-- Latest TPS sample: **4055.2**
-- Avg slot time: **266.5 ms**
+- Current slot: `449377257`
+- Block height: `427417669`
+- Epoch: `1040` (22.5% complete)
+- Avg TPS (recent samples): **4059.9**
+- Latest TPS sample: **4181.2**
+- Avg slot time: **265.7 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **677**
-- Delinquent validators: **12**
-- Delinquent stake: **0.045%**
+- Active validators: **675**
+- Delinquent validators: **14**
+- Delinquent stake: **0.106%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,22 +32,22 @@ _Generated 2026-09-22T06:33:40Z UTC_
 | 10 | `DumiCKHVqo…` | 6,555,722 | 0 |
 
 ## Economic Indicators
-- SOL price: **$116.59** (24h +3.79%)
-- Market cap: **$68.45B**
-- 24h volume: **$6.89B**
-- Chain TVL: **$6.45B**
-- Stablecoin supply on Solana: **$15.87B**
-- 24h DEX volume: **$3.37B**
-- 24h protocol fees: **$18.05M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$116.97** (24h +0.08%)
+- Market cap: **$68.71B**
+- 24h volume: **$5.86B**
+- Chain TVL: **$6.44B**
+- Stablecoin supply on Solana: **$15.78B**
+- 24h DEX volume: **$3.43B**
+- 24h protocol fees: **$18.55M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **6,568,358**
-- Tokenized RWA volume on Solana: **$2.45B** across 17 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Ondo Global Markets: $964.63M
-  - Invesco USTB: $539.32M
-  - Huma Finance V2: $358.39M
-  - OnRe: $302.61M
-  - Plume Vaults: $207.99M
+- Tokenized RWA volume on Solana: **$2.46B** across 17 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Ondo Global Markets: $968.49M
+  - Invesco USTB: $541.79M
+  - Huma Finance V2: $358.43M
+  - OnRe: $302.62M
+  - Plume Vaults: $208.13M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
