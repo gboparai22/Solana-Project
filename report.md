@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-22T20:21:13Z UTC_
+_Generated 2026-09-22T23:08:12Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `449484762`
-- Block height: `427525096`
-- Epoch: `1040` (47.4% complete)
-- Avg TPS (recent samples): **4762.7**
-- Latest TPS sample: **4755.3**
-- Avg slot time: **267.3 ms**
+- Current slot: `449522241`
+- Block height: `427562566`
+- Epoch: `1040` (56.1% complete)
+- Avg TPS (recent samples): **4565.3**
+- Latest TPS sample: **4946.0**
+- Avg slot time: **268.4 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **677**
-- Delinquent validators: **12**
-- Delinquent stake: **0.045%**
+- Active validators: **678**
+- Delinquent validators: **11**
+- Delinquent stake: **0.043%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,21 +32,21 @@ _Generated 2026-09-22T20:21:13Z UTC_
 | 10 | `DumiCKHVqo…` | 6,555,722 | 0 |
 
 ## Economic Indicators
-- SOL price: **$117.97** (24h -0.85%)
-- Market cap: **$69.30B**
-- 24h volume: **$4.84B**
-- Chain TVL: **$6.49B**
-- Stablecoin supply on Solana: **$16.03B**
+- SOL price: **$118.5** (24h -1.05%)
+- Market cap: **$69.76B**
+- 24h volume: **$4.68B**
+- Chain TVL: **$6.50B**
+- Stablecoin supply on Solana: **$16.06B**
 - 24h DEX volume: **$3.43B**
 - 24h protocol fees: **$18.64M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **6,568,358**
 - Tokenized RWA volume on Solana: **$1.50B** across 16 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $543.23M
-  - Huma Finance V2: $369.51M
-  - OnRe: $302.65M
-  - Plume Vaults: $208.49M
+  - Invesco USTB: $544.45M
+  - Huma Finance V2: $369.50M
+  - OnRe: $302.66M
+  - Plume Vaults: $208.52M
   - KAIO: $39.65M
 
 ## Ecosystem & Community
