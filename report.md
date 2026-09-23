@@ -1,23 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-23T21:06:23Z UTC_
+_Generated 2026-09-23T23:51:15Z UTC_
 
-## ⚠️ Anomalies Detected
-- 🟡 **[WARNING]** Delinquent stake (0.237%) is 2.8 std-devs above its recent average.
+## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `449820259`
-- Block height: `427860413`
-- Epoch: `1041` (25.1% complete)
-- Avg TPS (recent samples): **4756.8**
-- Latest TPS sample: **4715.0**
-- Avg slot time: **264.8 ms**
+- Current slot: `449857485`
+- Block height: `427897629`
+- Epoch: `1041` (33.7% complete)
+- Avg TPS (recent samples): **4688.2**
+- Latest TPS sample: **4769.3**
+- Avg slot time: **264.9 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **674**
-- Delinquent validators: **13**
-- Delinquent stake: **0.237%**
+- Active validators: **675**
+- Delinquent validators: **12**
+- Delinquent stake: **0.054%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -33,20 +32,20 @@ _Generated 2026-09-23T21:06:23Z UTC_
 | 10 | `DumiCKHVqo…` | 6,557,340 | 0 |
 
 ## Economic Indicators
-- SOL price: **$114.02** (24h -3.40%)
-- Market cap: **$67.04B**
-- 24h volume: **$5.15B**
-- Chain TVL: **$6.39B**
-- Stablecoin supply on Solana: **$15.87B**
+- SOL price: **$114.85** (24h -3.02%)
+- Market cap: **$67.48B**
+- 24h volume: **$5.13B**
+- Chain TVL: **$6.40B**
+- Stablecoin supply on Solana: **$15.98B**
 - 24h DEX volume: **$3.20B**
 - 24h protocol fees: **$17.87M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **8,781,114**
 - Tokenized RWA volume on Solana: **$1.51B** across 16 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $547.98M
-  - Huma Finance V2: $379.98M
-  - OnRe: $302.57M
+  - Invesco USTB: $549.94M
+  - Huma: $380.00M
+  - OnRe: $301.07M
   - Plume Vaults: $208.13M
   - KAIO: $39.65M
 
