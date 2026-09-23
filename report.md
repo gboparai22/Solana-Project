@@ -1,20 +1,20 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-23T01:38:29Z UTC_
+_Generated 2026-09-23T07:21:42Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `449556198`
-- Block height: `427596507`
-- Epoch: `1040` (63.9% complete)
-- Avg TPS (recent samples): **4313.3**
-- Latest TPS sample: **4445.6**
-- Avg slot time: **264.8 ms**
+- Current slot: `449633888`
+- Block height: `427674177`
+- Epoch: `1040` (81.9% complete)
+- Avg TPS (recent samples): **4116.9**
+- Latest TPS sample: **3963.2**
+- Avg slot time: **264.7 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **677**
+- Active validators: **676**
 - Delinquent validators: **12**
 - Delinquent stake: **0.045%**
 
@@ -32,21 +32,21 @@ _Generated 2026-09-23T01:38:29Z UTC_
 | 10 | `DumiCKHVqo…` | 6,555,722 | 0 |
 
 ## Economic Indicators
-- SOL price: **$118.6** (24h +0.69%)
-- Market cap: **$69.68B**
-- 24h volume: **$4.58B**
-- Chain TVL: **$6.52B**
-- Stablecoin supply on Solana: **$16.52B**
-- 24h DEX volume: **$3.45B**
-- 24h protocol fees: **$17.58M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$118.89** (24h +2.08%)
+- Market cap: **$69.84B**
+- 24h volume: **$4.26B**
+- Chain TVL: **$6.54B**
+- Stablecoin supply on Solana: **$16.08B**
+- 24h DEX volume: **n/a**
+- 24h protocol fees: **$17.84M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **8,781,114**
 - Tokenized RWA volume on Solana: **$1.50B** across 16 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $543.96M
-  - Huma Finance V2: $369.51M
-  - OnRe: $302.65M
-  - Plume Vaults: $208.57M
+  - Invesco USTB: $544.16M
+  - Huma Finance V2: $369.24M
+  - OnRe: $302.74M
+  - Plume Vaults: $208.74M
   - KAIO: $39.65M
 
 ## Ecosystem & Community
