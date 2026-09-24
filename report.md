@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-24T03:14:56Z UTC_
+_Generated 2026-09-24T08:39:20Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `449903503`
-- Block height: `427943639`
-- Epoch: `1041` (44.3% complete)
-- Avg TPS (recent samples): **4234.2**
-- Latest TPS sample: **3987.2**
-- Avg slot time: **264.6 ms**
+- Current slot: `449976980`
+- Block height: `428017101`
+- Epoch: `1041` (61.3% complete)
+- Avg TPS (recent samples): **4287.0**
+- Latest TPS sample: **4283.5**
+- Avg slot time: **264.8 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **674**
-- Delinquent validators: **13**
-- Delinquent stake: **0.135%**
+- Active validators: **676**
+- Delinquent validators: **11**
+- Delinquent stake: **0.045%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,21 +32,21 @@ _Generated 2026-09-24T03:14:56Z UTC_
 | 10 | `DumiCKHVqo…` | 6,557,340 | 0 |
 
 ## Economic Indicators
-- SOL price: **$115.11** (24h -2.91%)
-- Market cap: **$67.64B**
-- 24h volume: **$5.23B**
+- SOL price: **$114.25** (24h -3.21%)
+- Market cap: **$67.14B**
+- 24h volume: **$4.80B**
 - Chain TVL: **$6.40B**
-- Stablecoin supply on Solana: **$16.91B**
+- Stablecoin supply on Solana: **$16.13B**
 - 24h DEX volume: **$2.68B**
-- 24h protocol fees: **$16.53M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$16.52M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **6,455,935**
 - Tokenized RWA volume on Solana: **$1.51B** across 16 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $549.90M
-  - Huma: $379.65M
-  - OnRe: $301.15M
-  - Plume Vaults: $208.02M
+  - Invesco USTB: $550.50M
+  - Huma: $379.64M
+  - OnRe: $301.16M
+  - Plume Vaults: $208.17M
   - KAIO: $39.65M
 
 ## Ecosystem & Community
