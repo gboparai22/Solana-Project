@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-24T08:39:20Z UTC_
+_Generated 2026-09-24T14:01:21Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `449976980`
-- Block height: `428017101`
-- Epoch: `1041` (61.3% complete)
-- Avg TPS (recent samples): **4287.0**
-- Latest TPS sample: **4283.5**
-- Avg slot time: **264.8 ms**
+- Current slot: `450049874`
+- Block height: `428089977`
+- Epoch: `1041` (78.2% complete)
+- Avg TPS (recent samples): **5087.5**
+- Latest TPS sample: **5233.9**
+- Avg slot time: **266.7 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **676**
-- Delinquent validators: **11**
-- Delinquent stake: **0.045%**
+- Active validators: **673**
+- Delinquent validators: **13**
+- Delinquent stake: **0.101%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,21 +32,21 @@ _Generated 2026-09-24T08:39:20Z UTC_
 | 10 | `DumiCKHVqo…` | 6,557,340 | 0 |
 
 ## Economic Indicators
-- SOL price: **$114.25** (24h -3.21%)
-- Market cap: **$67.14B**
-- 24h volume: **$4.80B**
-- Chain TVL: **$6.40B**
-- Stablecoin supply on Solana: **$16.13B**
-- 24h DEX volume: **$2.68B**
-- 24h protocol fees: **$16.52M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$114.87** (24h -1.70%)
+- Market cap: **$67.46B**
+- 24h volume: **$4.81B**
+- Chain TVL: **$6.34B**
+- Stablecoin supply on Solana: **$16.85B**
+- 24h DEX volume: **$2.55B**
+- 24h protocol fees: **$16.48M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **6,455,935**
 - Tokenized RWA volume on Solana: **$1.51B** across 16 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $550.50M
-  - Huma: $379.64M
-  - OnRe: $301.16M
-  - Plume Vaults: $208.17M
+  - Invesco USTB: $550.04M
+  - Huma: $379.66M
+  - OnRe: $301.13M
+  - Plume Vaults: $208.20M
   - KAIO: $39.65M
 
 ## Ecosystem & Community
