@@ -1,21 +1,21 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-26T06:24:50Z UTC_
+_Generated 2026-09-26T11:40:29Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `450593035`
-- Block height: `428632827`
-- Epoch: `1043` (3.9% complete)
-- Avg TPS (recent samples): **4600.5**
-- Latest TPS sample: **4565.8**
-- Avg slot time: **268.6 ms**
+- Current slot: `450663826`
+- Block height: `428703599`
+- Epoch: `1043` (20.3% complete)
+- Avg TPS (recent samples): **4218.4**
+- Latest TPS sample: **4429.2**
+- Avg slot time: **268.5 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **675**
-- Delinquent validators: **12**
+- Active validators: **676**
+- Delinquent validators: **11**
 - Delinquent stake: **0.008%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
@@ -32,21 +32,21 @@ _Generated 2026-09-26T06:24:50Z UTC_
 | 10 | `DumiCKHVqo…` | 6,506,505 | 0 |
 
 ## Economic Indicators
-- SOL price: **$120.38** (24h +3.27%)
-- Market cap: **$70.75B**
-- 24h volume: **$6.09B**
-- Chain TVL: **$6.61B**
-- Stablecoin supply on Solana: **$16.66B**
-- 24h DEX volume: **$2.80B**
-- 24h protocol fees: **$15.48M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$121.15** (24h -0.08%)
+- Market cap: **$71.20B**
+- 24h volume: **$4.94B**
+- Chain TVL: **$6.58B**
+- Stablecoin supply on Solana: **$17.68B**
+- 24h DEX volume: **$2.61B**
+- 24h protocol fees: **$15.47M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,771,566**
 - Tokenized RWA volume on Solana: **$1.50B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $543.44M
+  - Invesco USTB: $544.04M
   - Huma: $372.86M
-  - OnRe: $296.55M
-  - Plume Vaults: $219.90M
+  - OnRe: $296.56M
+  - Plume Vaults: $220.05M
   - KAIO: $39.65M
 
 ## Ecosystem & Community
