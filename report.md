@@ -1,23 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-28T22:23:58Z UTC_
+_Generated 2026-09-29T02:09:44Z UTC_
 
-## ⚠️ Anomalies Detected
-- 🟡 **[WARNING]** Delinquent stake (0.572%) is 6.8 std-devs above its recent average.
+## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `451452280`
-- Block height: `429491907`
-- Epoch: `1045` (2.8% complete)
-- Avg TPS (recent samples): **4599.8**
-- Latest TPS sample: **4354.9**
-- Avg slot time: **268.0 ms**
+- Current slot: `451502836`
+- Block height: `429542415`
+- Epoch: `1045` (14.5% complete)
+- Avg TPS (recent samples): **4744.8**
+- Latest TPS sample: **4431.9**
+- Avg slot time: **268.4 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **674**
-- Delinquent validators: **8**
-- Delinquent stake: **0.572%**
+- Active validators: **675**
+- Delinquent validators: **7**
+- Delinquent stake: **0.005%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -33,21 +32,21 @@ _Generated 2026-09-28T22:23:58Z UTC_
 | 10 | `DumiCKHVqo…` | 6,518,407 | 0 |
 
 ## Economic Indicators
-- SOL price: **$117.68** (24h -3.39%)
-- Market cap: **$69.18B**
-- 24h volume: **$4.16B**
-- Chain TVL: **$6.55B**
-- Stablecoin supply on Solana: **$16.36B**
-- 24h DEX volume: **$1.93B**
-- 24h protocol fees: **$15.42M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$116.93** (24h -3.24%)
+- Market cap: **$68.71B**
+- 24h volume: **$3.98B**
+- Chain TVL: **$6.47B**
+- Stablecoin supply on Solana: **$16.31B**
+- 24h DEX volume: **$2.22B**
+- 24h protocol fees: **$17.43M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): **5,616,144**
+- Daily active addresses (Glassnode): **6,840,572**
 - Tokenized RWA volume on Solana: **$1.55B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $579.51M
-  - Huma: $381.93M
-  - OnRe: $294.71M
-  - Plume Vaults: $220.92M
+  - Invesco USTB: $581.02M
+  - Huma: $381.53M
+  - OnRe: $294.78M
+  - Plume Vaults: $221.00M
   - KAIO: $39.65M
 
 ## Ecosystem & Community
