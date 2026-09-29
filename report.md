@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-09-29T15:22:04Z UTC_
+_Generated 2026-09-29T20:07:01Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `451680723`
-- Block height: `429720235`
-- Epoch: `1045` (55.7% complete)
-- Avg TPS (recent samples): **4758.7**
-- Latest TPS sample: **4742.7**
-- Avg slot time: **267.7 ms**
+- Current slot: `451744438`
+- Block height: `429783921`
+- Epoch: `1045` (70.5% complete)
+- Avg TPS (recent samples): **5327.0**
+- Latest TPS sample: **5096.6**
+- Avg slot time: **267.4 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **671**
-- Delinquent validators: **11**
-- Delinquent stake: **0.092%**
+- Active validators: **673**
+- Delinquent validators: **10**
+- Delinquent stake: **0.079%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,10 +32,10 @@ _Generated 2026-09-29T15:22:04Z UTC_
 | 10 | `DumiCKHVqo…` | 6,518,407 | 0 |
 
 ## Economic Indicators
-- SOL price: **$119.23872215021481** (24h +1.35%)
-- Market cap: **$70.09B**
-- 24h volume: **$3.56B**
-- Chain TVL: **$6.58B**
+- SOL price: **$118.68593933279212** (24h +0.19%)
+- Market cap: **$69.77B**
+- 24h volume: **$3.55B**
+- Chain TVL: **$6.49B**
 - Stablecoin supply on Solana: **$16.09B**
 - 24h DEX volume: **$2.66B**
 - 24h protocol fees: **$17.51M** _(REV proxy — fees only, not fees + priority fees + issuance)_
@@ -43,11 +43,11 @@ _Generated 2026-09-29T15:22:04Z UTC_
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **6,840,572**
 - Tokenized RWA volume on Solana: **$1.54B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $577.21M
-  - Huma: $380.15M
-  - OnRe: $294.64M
-  - Plume Vaults: $222.05M
-  - KAIO: $39.66M
+  - Invesco USTB: $577.75M
+  - Huma: $380.38M
+  - OnRe: $292.23M
+  - Plume Vaults: $221.81M
+  - KAIO: $39.65M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
