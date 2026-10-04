@@ -1,17 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-04T17:17:30Z UTC_
+_Generated 2026-10-04T20:20:05Z UTC_
 
-## ⚠️ Anomalies Detected
-- 🟡 **[WARNING]** Slot time (270.9ms) is 3.2 std-devs above its recent average.
+## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `453321228`
-- Block height: `431359607`
-- Epoch: `1049` (35.5% complete)
-- Avg TPS (recent samples): **4955.1**
-- Latest TPS sample: **4929.1**
-- Avg slot time: **270.9 ms**
+- Current slot: `453361984`
+- Block height: `431400351`
+- Epoch: `1049` (44.9% complete)
+- Avg TPS (recent samples): **4676.4**
+- Latest TPS sample: **4808.2**
+- Avg slot time: **266.7 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -33,22 +32,22 @@ _Generated 2026-10-04T17:17:30Z UTC_
 | 10 | `3JD3jMmnR6…` | 6,686,111 | 0 |
 
 ## Economic Indicators
-- SOL price: **$121.63** (24h +1.49%)
-- Market cap: **$71.56B**
-- 24h volume: **$1.85B**
-- Chain TVL: **$6.72B**
-- Stablecoin supply on Solana: **$16.48B**
+- SOL price: **$120.9** (24h +0.80%)
+- Market cap: **$71.12B**
+- 24h volume: **$1.87B**
+- Chain TVL: **$6.71B**
+- Stablecoin supply on Solana: **$16.52B**
 - 24h DEX volume: **$1.55B**
 - 24h protocol fees: **$12.93M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,260,466**
-- Tokenized RWA volume on Solana: **$1.57B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+- Tokenized RWA volume on Solana: **$1.56B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - Invesco USTB: $558.16M
-  - Huma: $415.05M
+  - Huma: $414.74M
   - OnRe: $291.67M
-  - Plume Vaults: $233.04M
-  - KAIO: $39.66M
+  - Plume Vaults: $232.78M
+  - KAIO: $39.65M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
