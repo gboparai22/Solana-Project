@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-06T00:35:32Z UTC_
+_Generated 2026-10-06T07:11:50Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `453741657`
-- Block height: `431779533`
-- Epoch: `1050` (32.8% complete)
-- Avg TPS (recent samples): **4800.9**
-- Latest TPS sample: **5056.1**
-- Avg slot time: **267.8 ms**
+- Current slot: `453830463`
+- Block height: `431868297`
+- Epoch: `1050` (53.3% complete)
+- Avg TPS (recent samples): **4082.5**
+- Latest TPS sample: **3947.8**
+- Avg slot time: **266.5 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-10-06T00:35:32Z UTC_
 | 10 | `3JD3jMmnR6…` | 6,687,904 | 0 |
 
 ## Economic Indicators
-- SOL price: **$120.86** (24h -0.09%)
-- Market cap: **$71.11B**
-- 24h volume: **$2.62B**
-- Chain TVL: **$6.80B**
-- Stablecoin supply on Solana: **$16.69B**
-- 24h DEX volume: **$1.95B**
-- 24h protocol fees: **$16.15M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$119.78** (24h -1.47%)
+- Market cap: **$70.48B**
+- 24h volume: **$2.33B**
+- Chain TVL: **$6.78B**
+- Stablecoin supply on Solana: **$16.70B**
+- 24h DEX volume: **$1.90B**
+- 24h protocol fees: **$16.11M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,723,616**
 - Tokenized RWA volume on Solana: **$1.57B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $566.41M
-  - Huma: $414.55M
-  - OnRe: $292.84M
-  - Plume Vaults: $229.52M
-  - KAIO: $39.66M
+  - Invesco USTB: $566.22M
+  - Huma: $414.14M
+  - OnRe: $292.95M
+  - Plume Vaults: $229.80M
+  - KAIO: $39.65M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
