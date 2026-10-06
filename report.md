@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-05T18:45:25Z UTC_
+_Generated 2026-10-06T00:35:32Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `453663393`
-- Block height: `431701300`
-- Epoch: `1050` (14.7% complete)
-- Avg TPS (recent samples): **4799.4**
-- Latest TPS sample: **4689.4**
-- Avg slot time: **268.9 ms**
+- Current slot: `453741657`
+- Block height: `431779533`
+- Epoch: `1050` (32.8% complete)
+- Avg TPS (recent samples): **4800.9**
+- Latest TPS sample: **5056.1**
+- Avg slot time: **267.8 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-10-05T18:45:25Z UTC_
 | 10 | `3JD3jMmnR6…` | 6,687,904 | 0 |
 
 ## Economic Indicators
-- SOL price: **$120.01** (24h -1.22%)
-- Market cap: **$70.63B**
-- 24h volume: **$2.78B**
-- Chain TVL: **$6.69B**
-- Stablecoin supply on Solana: **$16.66B**
-- 24h DEX volume: **$1.71B**
-- 24h protocol fees: **$16.13M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$120.86** (24h -0.09%)
+- Market cap: **$71.11B**
+- 24h volume: **$2.62B**
+- Chain TVL: **$6.80B**
+- Stablecoin supply on Solana: **$16.69B**
+- 24h DEX volume: **$1.95B**
+- 24h protocol fees: **$16.15M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): **5,861,809**
-- Tokenized RWA volume on Solana: **$1.56B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $564.90M
-  - Huma: $413.94M
-  - OnRe: $292.82M
-  - Plume Vaults: $230.61M
-  - KAIO: $39.65M
+- Daily active addresses (Glassnode): **5,723,616**
+- Tokenized RWA volume on Solana: **$1.57B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Invesco USTB: $566.41M
+  - Huma: $414.55M
+  - OnRe: $292.84M
+  - Plume Vaults: $229.52M
+  - KAIO: $39.66M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
