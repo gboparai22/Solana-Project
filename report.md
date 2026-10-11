@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-11T07:36:11Z UTC_
+_Generated 2026-10-11T14:39:08Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `455570825`
-- Block height: `433607987`
-- Epoch: `1054` (56.2% complete)
-- Avg TPS (recent samples): **4309.1**
-- Latest TPS sample: **4440.5**
-- Avg slot time: **217.9 ms**
+- Current slot: `455687175`
+- Block height: `433724311`
+- Epoch: `1054` (83.1% complete)
+- Avg TPS (recent samples): **4814.6**
+- Latest TPS sample: **4782.7**
+- Avg slot time: **218.1 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **674**
-- Delinquent validators: **6**
-- Delinquent stake: **0.003%**
+- Active validators: **672**
+- Delinquent validators: **8**
+- Delinquent stake: **0.03%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,21 +32,21 @@ _Generated 2026-10-11T07:36:11Z UTC_
 | 10 | `3JD3jMmnR6…` | 6,421,774 | 0 |
 
 ## Economic Indicators
-- SOL price: **$109.37** (24h -0.39%)
-- Market cap: **$64.45B**
-- 24h volume: **$1.53B**
-- Chain TVL: **$6.20B**
+- SOL price: **$109.57** (24h -0.74%)
+- Market cap: **$64.55B**
+- 24h volume: **$1.50B**
+- Chain TVL: **$6.19B**
 - Stablecoin supply on Solana: **$16.02B**
-- 24h DEX volume: **$1.58B**
-- 24h protocol fees: **$11.84M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h DEX volume: **$1.29B**
+- 24h protocol fees: **$11.94M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,395,918**
-- Tokenized RWA volume on Solana: **$1.59B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Invesco USTB: $600.00M
-  - Huma: $400.41M
-  - OnRe: $292.37M
-  - Plume Vaults: $235.65M
+- Tokenized RWA volume on Solana: **$1.60B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Invesco USTB: $600.60M
+  - Huma: $400.28M
+  - OnRe: $292.36M
+  - Plume Vaults: $236.31M
   - KAIO: $39.64M
 
 ## Ecosystem & Community
