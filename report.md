@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-11T23:02:54Z UTC_
+_Generated 2026-10-12T02:33:55Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `455825263`
-- Block height: `433862380`
-- Epoch: `1055` (15.1% complete)
-- Avg TPS (recent samples): **4960.2**
-- Latest TPS sample: **5395.0**
-- Avg slot time: **217.4 ms**
+- Current slot: `455883336`
+- Block height: `433920447`
+- Epoch: `1055` (28.6% complete)
+- Avg TPS (recent samples): **5216.6**
+- Latest TPS sample: **5684.2**
+- Avg slot time: **218.0 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-10-11T23:02:54Z UTC_
 | 10 | `3JD3jMmnR6…` | 6,422,658 | 0 |
 
 ## Economic Indicators
-- SOL price: **$111.0** (24h +0.55%)
-- Market cap: **$65.39B**
-- 24h volume: **$1.89B**
-- Chain TVL: **$6.25B**
-- Stablecoin supply on Solana: **$16.01B**
-- 24h DEX volume: **$1.29B**
-- 24h protocol fees: **$11.94M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$112.03** (24h +1.84%)
+- Market cap: **$66.01B**
+- 24h volume: **$2.01B**
+- Chain TVL: **$6.26B**
+- Stablecoin supply on Solana: **$16.02B**
+- 24h DEX volume: **$1.25B**
+- 24h protocol fees: **$11.06M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): **5,395,918**
+- Daily active addresses (Glassnode): **4,666,166**
 - Tokenized RWA volume on Solana: **$1.59B** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
   - Invesco USTB: $601.20M
-  - Huma: $400.32M
-  - OnRe: $292.37M
-  - Plume Vaults: $235.19M
-  - KAIO: $39.64M
+  - Huma: $398.70M
+  - OnRe: $292.46M
+  - Plume Vaults: $235.26M
+  - KAIO: $39.65M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
