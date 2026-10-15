@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-15T17:36:23Z UTC_
+_Generated 2026-10-15T20:56:46Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `457323039`
-- Block height: `435358906`
-- Epoch: `1058` (61.8% complete)
-- Avg TPS (recent samples): **5300.8**
-- Latest TPS sample: **5127.2**
-- Avg slot time: **215.4 ms**
+- Current slot: `457378623`
+- Block height: `435414479`
+- Epoch: `1058` (74.7% complete)
+- Avg TPS (recent samples): **5468.6**
+- Latest TPS sample: **5404.9**
+- Avg slot time: **217.3 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
 - Active validators: **672**
-- Delinquent validators: **8**
-- Delinquent stake: **0.0%**
+- Delinquent validators: **9**
+- Delinquent stake: **0.024%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,20 +32,20 @@ _Generated 2026-10-15T17:36:23Z UTC_
 | 10 | `3JD3jMmnR6…` | 6,640,641 | 0 |
 
 ## Economic Indicators
-- SOL price: **$105.93** (24h +1.04%)
-- Market cap: **$62.41B**
-- 24h volume: **$4.36B**
-- Chain TVL: **$5.94B**
-- Stablecoin supply on Solana: **$15.77B**
+- SOL price: **$105.58** (24h +1.35%)
+- Market cap: **$62.22B**
+- 24h volume: **$4.32B**
+- Chain TVL: **$6.02B**
+- Stablecoin supply on Solana: **$15.80B**
 - 24h DEX volume: **$2.12B**
-- 24h protocol fees: **$10.65M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$10.68M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,685,557**
 - Tokenized RWA volume on Solana: **$1.01B** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $408.99M
+  - Huma: $410.51M
   - OnRe: $292.25M
-  - Plume Vaults: $239.50M
+  - Plume Vaults: $238.37M
   - KAIO: $39.64M
   - Theo Network thBill: $11.22M
 
