@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-16T23:14:59Z UTC_
+_Generated 2026-10-17T01:24:19Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `457816736`
-- Block height: `435852511`
-- Epoch: `1059` (76.1% complete)
-- Avg TPS (recent samples): **4630.4**
-- Latest TPS sample: **4738.8**
-- Avg slot time: **216.9 ms**
+- Current slot: `457852632`
+- Block height: `435888263`
+- Epoch: `1059` (84.4% complete)
+- Avg TPS (recent samples): **4923.9**
+- Latest TPS sample: **5848.2**
+- Avg slot time: **217.4 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,20 +32,20 @@ _Generated 2026-10-16T23:14:59Z UTC_
 | 10 | `DumiCKHVqo…` | 6,417,148 | 0 |
 
 ## Economic Indicators
-- SOL price: **$104.26** (24h -0.98%)
-- Market cap: **$61.45B**
-- 24h volume: **$2.97B**
-- Chain TVL: **$5.91B**
-- Stablecoin supply on Solana: **$15.66B**
-- 24h DEX volume: **$2.54B**
-- 24h protocol fees: **$12.78M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$104.37** (24h -0.92%)
+- Market cap: **$61.51B**
+- 24h volume: **$2.92B**
+- Chain TVL: **$5.93B**
+- Stablecoin supply on Solana: **$15.67B**
+- 24h DEX volume: **$1.92B**
+- 24h protocol fees: **$12.42M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): **5,221,800**
-- Tokenized RWA volume on Solana: **$1.00B** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $407.28M
-  - OnRe: $293.34M
-  - Plume Vaults: $234.97M
+- Daily active addresses (Glassnode): **5,057,590**
+- Tokenized RWA volume on Solana: **$999.31M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $405.82M
+  - OnRe: $293.45M
+  - Plume Vaults: $235.04M
   - KAIO: $39.65M
   - Theo Network thBill: $11.22M
 
