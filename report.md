@@ -1,51 +1,51 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-18T03:06:49Z UTC_
+_Generated 2026-10-18T08:14:03Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `458279297`
-- Block height: `436314564`
-- Epoch: `1060` (83.2% complete)
-- Avg TPS (recent samples): **4808.4**
-- Latest TPS sample: **4619.4**
-- Avg slot time: **216.6 ms**
+- Current slot: `458364322`
+- Block height: `436399584`
+- Epoch: `1061` (2.9% complete)
+- Avg TPS (recent samples): **4386.4**
+- Latest TPS sample: **4406.2**
+- Avg slot time: **216.8 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
 - Active validators: **670**
-- Delinquent validators: **11**
-- Delinquent stake: **0.012%**
+- Delinquent validators: **10**
+- Delinquent stake: **0.001%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
-| 1 | `CcaHc2L43Z…` | 17,532,933 | 7 |
-| 2 | `he1iusunGw…` | 15,736,568 | 0 |
-| 3 | `3N7s9zXMZ4…` | 12,486,161 | 0 |
-| 4 | `8GbwASqdpw…` | 10,972,883 | 0 |
-| 5 | `CatzoSMUkT…` | 10,191,942 | 5 |
-| 6 | `51JBzSTU5r…` | 9,445,787 | 10 |
-| 7 | `26pV97Ce83…` | 9,250,229 | 7 |
-| 8 | `9QU2QSxhb2…` | 7,759,724 | 7 |
-| 9 | `CvSb7wdQAF…` | 6,991,827 | 5 |
-| 10 | `DumiCKHVqo…` | 6,726,220 | 0 |
+| 1 | `CcaHc2L43Z…` | 17,091,304 | 7 |
+| 2 | `he1iusunGw…` | 15,762,758 | 0 |
+| 3 | `3N7s9zXMZ4…` | 12,523,730 | 0 |
+| 4 | `8GbwASqdpw…` | 10,974,352 | 0 |
+| 5 | `CatzoSMUkT…` | 9,718,484 | 5 |
+| 6 | `51JBzSTU5r…` | 9,466,253 | 10 |
+| 7 | `26pV97Ce83…` | 9,251,164 | 7 |
+| 8 | `9QU2QSxhb2…` | 7,774,268 | 7 |
+| 9 | `CvSb7wdQAF…` | 6,992,811 | 5 |
+| 10 | `DumiCKHVqo…` | 6,730,670 | 0 |
 
 ## Economic Indicators
-- SOL price: **$103.89** (24h -0.48%)
-- Market cap: **$61.23B**
-- 24h volume: **$1.83B**
-- Chain TVL: **$5.89B**
+- SOL price: **$103.14** (24h -1.70%)
+- Market cap: **$60.80B**
+- 24h volume: **$1.81B**
+- Chain TVL: **$5.91B**
 - Stablecoin supply on Solana: **$15.58B**
 - 24h DEX volume: **$1.51B**
-- 24h protocol fees: **$9.32M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- 24h protocol fees: **$9.33M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,109,717**
-- Tokenized RWA volume on Solana: **$999.09M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $405.35M
-  - OnRe: $293.55M
-  - Plume Vaults: $235.22M
+- Tokenized RWA volume on Solana: **$999.98M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $405.39M
+  - OnRe: $293.54M
+  - Plume Vaults: $236.11M
   - KAIO: $39.65M
   - Theo Network thBill: $11.23M
 
