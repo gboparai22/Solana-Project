@@ -1,21 +1,21 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-19T01:34:20Z UTC_
+_Generated 2026-10-19T07:19:47Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `458652098`
-- Block height: `436687342`
-- Epoch: `1061` (69.5% complete)
-- Avg TPS (recent samples): **4945.2**
-- Latest TPS sample: **4689.7**
-- Avg slot time: **216.7 ms**
+- Current slot: `458747775`
+- Block height: `436783006`
+- Epoch: `1061` (91.6% complete)
+- Avg TPS (recent samples): **4444.5**
+- Latest TPS sample: **4602.8**
+- Avg slot time: **216.4 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **667**
-- Delinquent validators: **13**
+- Active validators: **668**
+- Delinquent validators: **12**
 - Delinquent stake: **0.004%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
@@ -32,20 +32,20 @@ _Generated 2026-10-19T01:34:20Z UTC_
 | 10 | `DumiCKHVqo…` | 6,730,670 | 0 |
 
 ## Economic Indicators
-- SOL price: **$104.8** (24h +1.15%)
-- Market cap: **$61.78B**
-- 24h volume: **$2.35B**
-- Chain TVL: **$5.78B**
-- Stablecoin supply on Solana: **$15.48B**
-- 24h DEX volume: **$1.56B**
-- 24h protocol fees: **$9.68M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$105.79** (24h +2.24%)
+- Market cap: **$62.34B**
+- 24h volume: **$2.56B**
+- Chain TVL: **$5.88B**
+- Stablecoin supply on Solana: **$15.56B**
+- 24h DEX volume: **$1.57B**
+- 24h protocol fees: **$9.71M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **3,993,838**
 - Tokenized RWA volume on Solana: **$1.00B** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $405.33M
-  - OnRe: $293.84M
-  - Plume Vaults: $236.51M
+  - Huma: $405.01M
+  - OnRe: $293.85M
+  - Plume Vaults: $236.52M
   - KAIO: $39.65M
   - Theo Network thBill: $11.23M
 
