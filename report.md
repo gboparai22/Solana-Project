@@ -1,17 +1,18 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-22T18:42:08Z UTC_
+_Generated 2026-10-22T22:05:58Z UTC_
 
 ## ⚠️ Anomalies Detected
-- 🟡 **[WARNING]** Delinquent stake (0.332%) is 4.1 std-devs above its recent average.
+- 🟡 **[WARNING]** TPS (1661.1) is 2.8 std-devs below its recent average.
+- 🟡 **[WARNING]** Delinquent stake (0.332%) is 3.5 std-devs above its recent average.
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `460140948`
-- Block height: `438173399`
-- Epoch: `1065` (14.1% complete)
-- Avg TPS (recent samples): **2300.7**
-- Latest TPS sample: **2021.6**
-- Avg slot time: **211.8 ms**
+- Current slot: `460198579`
+- Block height: `438230929`
+- Epoch: `1065` (27.4% complete)
+- Avg TPS (recent samples): **1661.1**
+- Latest TPS sample: **1435.9**
+- Avg slot time: **210.7 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -33,20 +34,20 @@ _Generated 2026-10-22T18:42:08Z UTC_
 | 10 | `DumiCKHVqo…` | 7,002,101 | 0 |
 
 ## Economic Indicators
-- SOL price: **$103.58** (24h -4.90%)
-- Market cap: **$61.07B**
-- 24h volume: **$2.64B**
-- Chain TVL: **$5.97B**
-- Stablecoin supply on Solana: **$15.75B**
+- SOL price: **$103.67** (24h -3.85%)
+- Market cap: **$61.13B**
+- 24h volume: **$2.49B**
+- Chain TVL: **$5.85B**
+- Stablecoin supply on Solana: **$15.69B**
 - 24h DEX volume: **$2.27B**
 - 24h protocol fees: **$11.96M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,166,233**
-- Tokenized RWA volume on Solana: **$968.11M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $381.50M
-  - OnRe: $295.06M
-  - Plume Vaults: $226.78M
+- Tokenized RWA volume on Solana: **$969.25M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $381.77M
+  - OnRe: $295.00M
+  - Plume Vaults: $227.79M
   - KAIO: $39.64M
   - Theo Network thBill: $11.23M
 
