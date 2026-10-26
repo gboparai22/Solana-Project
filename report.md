@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-26T07:25:26Z UTC_
+_Generated 2026-10-26T20:04:17Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `461578472`
-- Block height: `439605720`
-- Epoch: `1068` (46.9% complete)
-- Avg TPS (recent samples): **1277.7**
-- Latest TPS sample: **1200.1**
-- Avg slot time: **211.1 ms**
+- Current slot: `461792792`
+- Block height: `439819855`
+- Epoch: `1068` (96.5% complete)
+- Avg TPS (recent samples): **2041.3**
+- Latest TPS sample: **2217.5**
+- Avg slot time: **212.5 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,21 +32,21 @@ _Generated 2026-10-26T07:25:26Z UTC_
 | 10 | `DumiCKHVqo…` | 6,989,716 | 0 |
 
 ## Economic Indicators
-- SOL price: **$100.88** (24h -0.63%)
-- Market cap: **$59.50B**
-- 24h volume: **$1.80B**
-- Chain TVL: **$5.70B**
-- Stablecoin supply on Solana: **$15.64B**
-- 24h DEX volume: **$1.35B**
-- 24h protocol fees: **$9.63M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$100.26** (24h -1.24%)
+- Market cap: **$59.15B**
+- 24h volume: **$2.47B**
+- Chain TVL: **$5.69B**
+- Stablecoin supply on Solana: **$15.52B**
+- 24h DEX volume: **$1.45B**
+- 24h protocol fees: **$9.29M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,045,565**
-- Tokenized RWA volume on Solana: **$963.89M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $375.29M
-  - OnRe: $295.95M
-  - Plume Vaults: $229.57M
-  - KAIO: $39.65M
+- Tokenized RWA volume on Solana: **$960.64M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $374.11M
+  - OnRe: $295.83M
+  - Plume Vaults: $227.60M
+  - KAIO: $39.63M
   - Theo Network thBill: $9.74M
 
 ## Ecosystem & Community
