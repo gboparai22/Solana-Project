@@ -1,17 +1,17 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-28T17:04:49Z UTC_
+_Generated 2026-10-28T21:49:10Z UTC_
 
 ## ⚠️ Anomalies Detected
-- 🟡 **[WARNING]** Delinquent stake (0.886%) is 3.4 std-devs above its recent average.
+- 🟡 **[WARNING]** Delinquent stake (0.886%) is 3.0 std-devs above its recent average.
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `462554293`
-- Block height: `440578765`
-- Epoch: `1070` (72.8% complete)
-- Avg TPS (recent samples): **2124.8**
-- Latest TPS sample: **2153.2**
-- Avg slot time: **211.9 ms**
+- Current slot: `462634123`
+- Block height: `440658519`
+- Epoch: `1070` (91.2% complete)
+- Avg TPS (recent samples): **1948.4**
+- Latest TPS sample: **2249.6**
+- Avg slot time: **213.6 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -33,21 +33,21 @@ _Generated 2026-10-28T17:04:49Z UTC_
 | 10 | `DumiCKHVqo…` | 6,997,044 | 0 |
 
 ## Economic Indicators
-- SOL price: **$101.09** (24h +0.16%)
-- Market cap: **$59.63B**
-- 24h volume: **$2.08B**
-- Chain TVL: **$5.70B**
-- Stablecoin supply on Solana: **$15.12B**
+- SOL price: **$102.5** (24h +1.07%)
+- Market cap: **$60.48B**
+- 24h volume: **$2.63B**
+- Chain TVL: **$5.72B**
+- Stablecoin supply on Solana: **$15.46B**
 - 24h DEX volume: **$1.58B**
 - 24h protocol fees: **$10.91M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,248,728**
-- Tokenized RWA volume on Solana: **$971.77M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $376.68M
-  - OnRe: $301.21M
-  - Plume Vaults: $228.72M
-  - KAIO: $39.63M
+- Tokenized RWA volume on Solana: **$978.09M** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $376.79M
+  - OnRe: $305.54M
+  - Plume Vaults: $229.88M
+  - KAIO: $39.64M
   - Theo Network thBill: $11.79M
 
 ## Ecosystem & Community
