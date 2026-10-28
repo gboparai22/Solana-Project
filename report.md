@@ -1,17 +1,17 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-27T23:56:25Z UTC_
+_Generated 2026-10-28T04:37:07Z UTC_
 
 ## ⚠️ Anomalies Detected
-- 🟡 **[WARNING]** Delinquent stake (0.886%) is 6.9 std-devs above its recent average.
+- 🟡 **[WARNING]** Delinquent stake (0.886%) is 4.9 std-devs above its recent average.
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `462264439`
-- Block height: `440289242`
-- Epoch: `1070` (5.7% complete)
-- Avg TPS (recent samples): **1743.8**
-- Latest TPS sample: **1979.8**
-- Avg slot time: **212.9 ms**
+- Current slot: `462343511`
+- Block height: `440368143`
+- Epoch: `1070` (24.0% complete)
+- Avg TPS (recent samples): **1754.8**
+- Latest TPS sample: **1514.7**
+- Avg slot time: **212.8 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -33,20 +33,20 @@ _Generated 2026-10-27T23:56:25Z UTC_
 | 10 | `DumiCKHVqo…` | 6,997,044 | 0 |
 
 ## Economic Indicators
-- SOL price: **$101.29** (24h +0.50%)
-- Market cap: **$59.75B**
+- SOL price: **$101.86** (24h +1.93%)
+- Market cap: **$60.08B**
 - 24h volume: **$2.03B**
-- Chain TVL: **$5.70B**
-- Stablecoin supply on Solana: **$15.43B**
-- 24h DEX volume: **$2.07B**
-- 24h protocol fees: **$11.67M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- Chain TVL: **$5.72B**
+- Stablecoin supply on Solana: **$15.44B**
+- 24h DEX volume: **$1.85B**
+- 24h protocol fees: **$11.08M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): **5,095,899**
-- Tokenized RWA volume on Solana: **$971.15M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $376.39M
-  - OnRe: $301.14M
-  - Plume Vaults: $228.46M
+- Daily active addresses (Glassnode): **5,248,728**
+- Tokenized RWA volume on Solana: **$971.38M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $376.36M
+  - OnRe: $301.24M
+  - Plume Vaults: $228.58M
   - KAIO: $39.63M
   - Theo Network thBill: $11.79M
 
