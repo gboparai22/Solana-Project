@@ -1,22 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-28T10:58:11Z UTC_
+_Generated 2026-10-28T17:04:49Z UTC_
 
 ## ⚠️ Anomalies Detected
-- 🟡 **[WARNING]** Delinquent stake (0.886%) is 3.9 std-devs above its recent average.
+- 🟡 **[WARNING]** Delinquent stake (0.886%) is 3.4 std-devs above its recent average.
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `462450917`
-- Block height: `440475499`
-- Epoch: `1070` (48.8% complete)
-- Avg TPS (recent samples): **1354.9**
-- Latest TPS sample: **1341.6**
-- Avg slot time: **211.7 ms**
+- Current slot: `462554293`
+- Block height: `440578765`
+- Epoch: `1070` (72.8% complete)
+- Avg TPS (recent samples): **2124.8**
+- Latest TPS sample: **2153.2**
+- Avg slot time: **211.9 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **662**
-- Delinquent validators: **29**
+- Active validators: **661**
+- Delinquent validators: **30**
 - Delinquent stake: **0.886%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
@@ -33,20 +33,20 @@ _Generated 2026-10-28T10:58:11Z UTC_
 | 10 | `DumiCKHVqo…` | 6,997,044 | 0 |
 
 ## Economic Indicators
-- SOL price: **$102.92** (24h +2.94%)
-- Market cap: **$60.71B**
+- SOL price: **$101.09** (24h +0.16%)
+- Market cap: **$59.63B**
 - 24h volume: **$2.08B**
-- Chain TVL: **$5.76B**
-- Stablecoin supply on Solana: **$15.05B**
-- 24h DEX volume: **$1.64B**
+- Chain TVL: **$5.70B**
+- Stablecoin supply on Solana: **$15.12B**
+- 24h DEX volume: **$1.58B**
 - 24h protocol fees: **$10.91M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **5,248,728**
-- Tokenized RWA volume on Solana: **$972.16M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $376.93M
-  - OnRe: $301.23M
-  - Plume Vaults: $228.78M
+- Tokenized RWA volume on Solana: **$971.77M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $376.68M
+  - OnRe: $301.21M
+  - Plume Vaults: $228.72M
   - KAIO: $39.63M
   - Theo Network thBill: $11.79M
 
@@ -58,7 +58,7 @@ _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. I
   - https://x.com/heliuslabs
   - https://x.com/SolanaStatus
 
-_solana.com/data: No __NEXT_DATA__ payload found — page is likely fully client-rendered. Open solana.com/data manually for the latest headline figures._
+_solana.com/data: HTTP Error 429: Too Many Requests_
 
 ## Upcoming Upgrades & Developments
 - **Alpenglow** (Proposed / in community & validator review): Proposed consensus overhaul (Votor + Rotor) targeting ~150ms finality, replacing TowerBFT/Turbine's block-based finality model.
