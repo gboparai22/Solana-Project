@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-10-30T18:43:24Z UTC_
+_Generated 2026-10-30T22:47:08Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `463390339`
-- Block height: `441412648`
-- Epoch: `1072` (66.3% complete)
-- Avg TPS (recent samples): **1929.5**
-- Latest TPS sample: **1716.3**
-- Avg slot time: **214.7 ms**
+- Current slot: `463458499`
+- Block height: `441480764`
+- Epoch: `1072` (82.1% complete)
+- Avg TPS (recent samples): **1591.8**
+- Latest TPS sample: **1340.6**
+- Avg slot time: **213.9 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-10-30T18:43:24Z UTC_
 | 10 | `DumiCKHVqo…` | 7,001,506 | 0 |
 
 ## Economic Indicators
-- SOL price: **$93.87** (24h -6.44%)
-- Market cap: **$55.44B**
-- 24h volume: **$5.89B**
-- Chain TVL: **$5.32B**
-- Stablecoin supply on Solana: **$15.14B**
+- SOL price: **$95.76** (24h -1.40%)
+- Market cap: **$56.50B**
+- 24h volume: **$4.59B**
+- Chain TVL: **$5.37B**
+- Stablecoin supply on Solana: **$15.21B**
 - 24h DEX volume: **$2.30B**
 - 24h protocol fees: **$12.33M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,936,065**
-- Tokenized RWA volume on Solana: **$985.90M** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $382.51M
-  - OnRe: $307.52M
-  - Plume Vaults: $231.14M
+- Tokenized RWA volume on Solana: **$980.90M** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $377.85M
+  - OnRe: $307.47M
+  - Plume Vaults: $230.86M
   - KAIO: $38.71M
-  - Theo Network thBill: $11.80M
+  - Theo Network thBill: $11.79M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
