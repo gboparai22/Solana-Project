@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-11-01T08:43:37Z UTC_
+_Generated 2026-11-01T15:46:05Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `464029044`
-- Block height: `442050566`
-- Epoch: `1074` (14.1% complete)
-- Avg TPS (recent samples): **1074.3**
-- Latest TPS sample: **1149.3**
-- Avg slot time: **214.1 ms**
+- Current slot: `464147445`
+- Block height: `442168916`
+- Epoch: `1074` (41.5% complete)
+- Avg TPS (recent samples): **1938.5**
+- Latest TPS sample: **1544.7**
+- Avg slot time: **213.9 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,21 +32,21 @@ _Generated 2026-11-01T08:43:37Z UTC_
 | 10 | `CvSb7wdQAF…` | 6,977,108 | 5 |
 
 ## Economic Indicators
-- SOL price: **$95.58** (24h +0.37%)
-- Market cap: **$56.29B**
-- 24h volume: **$1.35B**
-- Chain TVL: **$5.41B**
-- Stablecoin supply on Solana: **$15.15B**
-- 24h DEX volume: **$1.44B**
-- 24h protocol fees: **$8.58M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$94.84** (24h -1.00%)
+- Market cap: **$55.81B**
+- 24h volume: **$1.32B**
+- Chain TVL: **$5.40B**
+- Stablecoin supply on Solana: **$15.07B**
+- 24h DEX volume: **$953.37M**
+- 24h protocol fees: **$8.27M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,041,703**
-- Tokenized RWA volume on Solana: **$971.42M** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $370.04M
-  - OnRe: $307.78M
-  - Plume Vaults: $228.85M
-  - KAIO: $38.73M
+- Tokenized RWA volume on Solana: **$970.46M** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $369.02M
+  - OnRe: $307.77M
+  - Plume Vaults: $228.97M
+  - KAIO: $38.72M
   - Theo Network thBill: $11.80M
 
 ## Ecosystem & Community
