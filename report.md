@@ -1,21 +1,21 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-11-02T22:24:25Z UTC_
+_Generated 2026-11-03T03:35:36Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `464662065`
-- Block height: `442683143`
-- Epoch: `1075` (60.7% complete)
-- Avg TPS (recent samples): **1663.3**
-- Latest TPS sample: **1497.3**
-- Avg slot time: **213.4 ms**
+- Current slot: `464749359`
+- Block height: `442770433`
+- Epoch: `1075` (80.9% complete)
+- Avg TPS (recent samples): **1667.6**
+- Latest TPS sample: **1875.1**
+- Avg slot time: **212.9 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
 - Active validators: **665**
-- Delinquent validators: **29**
+- Delinquent validators: **28**
 - Delinquent stake: **1.011%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
@@ -32,22 +32,16 @@ _Generated 2026-11-02T22:24:25Z UTC_
 | 10 | `CvSb7wdQAF…` | 6,978,080 | 5 |
 
 ## Economic Indicators
-- SOL price: **$91.98** (24h -1.35%)
-- Market cap: **$54.31B**
-- 24h volume: **$2.66B**
-- Chain TVL: **$5.33B**
-- Stablecoin supply on Solana: **$15.10B**
-- 24h DEX volume: **$905.60M**
-- 24h protocol fees: **$8.39M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$91.74** (24h -3.98%)
+- Market cap: **$54.15B**
+- 24h volume: **$2.53B**
+- Chain TVL: **$5.41B**
+- Stablecoin supply on Solana: **$15.00B**
+- 24h DEX volume: **n/a**
+- 24h protocol fees: **$11.01M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): **3,846,668**
-- Tokenized RWA volume on Solana: **$968.25M** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $370.21M
-  - OnRe: $307.37M
-  - Plume Vaults: $226.14M
-  - KAIO: $38.72M
-  - Theo Network thBill: $11.80M
+- Daily active addresses (Glassnode): **4,648,351**
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
