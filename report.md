@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-11-08T22:39:29Z UTC_
+_Generated 2026-11-09T02:22:24Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `467085841`
-- Block height: `445103977`
-- Epoch: `1081` (21.7% complete)
-- Avg TPS (recent samples): **1808.4**
-- Latest TPS sample: **1557.2**
-- Avg slot time: **214.4 ms**
+- Current slot: `467148182`
+- Block height: `445166283`
+- Epoch: `1081` (36.2% complete)
+- Avg TPS (recent samples): **1466.5**
+- Latest TPS sample: **1375.0**
+- Avg slot time: **215.0 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,21 +32,21 @@ _Generated 2026-11-08T22:39:29Z UTC_
 | 10 | `CvSb7wdQAF…` | 6,711,284 | 5 |
 
 ## Economic Indicators
-- SOL price: **$85.73** (24h -3.95%)
-- Market cap: **$50.68B**
-- 24h volume: **$1.52B**
-- Chain TVL: **$5.19B**
-- Stablecoin supply on Solana: **$14.77B**
-- 24h DEX volume: **$917.44M**
-- 24h protocol fees: **$8.04M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$88.01** (24h -1.09%)
+- Market cap: **$52.01B**
+- 24h volume: **$1.97B**
+- Chain TVL: **$5.10B**
+- Stablecoin supply on Solana: **$14.71B**
+- 24h DEX volume: **$995.30M**
+- 24h protocol fees: **$8.34M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): **4,139,282**
-- Tokenized RWA volume on Solana: **$928.51M** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $344.86M
-  - OnRe: $309.33M
+- Daily active addresses (Glassnode): **3,753,781**
+- Tokenized RWA volume on Solana: **$928.36M** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $344.80M
+  - OnRe: $309.31M
   - Plume Vaults: $219.50M
-  - KAIO: $34.65M
+  - KAIO: $34.66M
   - Theo Network thBill: $6.09M
 
 ## Ecosystem & Community
