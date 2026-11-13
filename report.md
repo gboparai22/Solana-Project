@@ -1,22 +1,23 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-11-13T06:03:53Z UTC_
+_Generated 2026-11-13T14:46:48Z UTC_
 
-## ✅ No anomalies detected this cycle
+## ⚠️ Anomalies Detected
+- 🟡 **[WARNING]** Slot time (216.2ms) is 2.6 std-devs above its recent average.
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `468819273`
-- Block height: `446834723`
-- Epoch: `1085` (23.0% complete)
-- Avg TPS (recent samples): **2138.7**
-- Latest TPS sample: **2096.0**
-- Avg slot time: **215.5 ms**
+- Current slot: `468964986`
+- Block height: `446980181`
+- Epoch: `1085` (56.7% complete)
+- Avg TPS (recent samples): **2497.0**
+- Latest TPS sample: **2401.4**
+- Avg slot time: **216.2 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
 - Active validators: **660**
 - Delinquent validators: **39**
-- Delinquent stake: **0.132%**
+- Delinquent stake: **0.17%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -32,21 +33,21 @@ _Generated 2026-11-13T06:03:53Z UTC_
 | 10 | `CvSb7wdQAF…` | 6,712,617 | 5 |
 
 ## Economic Indicators
-- SOL price: **$78.46** (24h -5.36%)
-- Market cap: **$46.41B**
-- 24h volume: **$2.99B**
-- Chain TVL: **$4.91B**
-- Stablecoin supply on Solana: **$13.93B**
-- 24h DEX volume: **$1.51B**
-- 24h protocol fees: **$8.49M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$81.19** (24h +0.21%)
+- Market cap: **$48.02B**
+- 24h volume: **$3.31B**
+- Chain TVL: **$4.96B**
+- Stablecoin supply on Solana: **$14.00B**
+- 24h DEX volume: **$1.50B**
+- 24h protocol fees: **$8.07M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,329,731**
-- Tokenized RWA volume on Solana: **$930.76M** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $340.05M
-  - OnRe: $309.35M
-  - Plume Vaults: $221.04M
-  - KAIO: $34.65M
+- Tokenized RWA volume on Solana: **$934.70M** across 15 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $344.53M
+  - OnRe: $308.88M
+  - Plume Vaults: $221.01M
+  - KAIO: $34.66M
   - Theo Network thBill: $11.81M
 
 ## Ecosystem & Community
