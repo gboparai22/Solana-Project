@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-11-18T01:07:35Z UTC_
+_Generated 2026-11-18T08:52:19Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `470745290`
-- Block height: `448760057`
-- Epoch: `1089` (68.8% complete)
-- Avg TPS (recent samples): **1601.7**
-- Latest TPS sample: **1498.6**
-- Avg slot time: **216.1 ms**
+- Current slot: `470874683`
+- Block height: `448889330`
+- Epoch: `1089` (98.8% complete)
+- Avg TPS (recent samples): **1215.3**
+- Latest TPS sample: **1165.0**
+- Avg slot time: **215.9 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-11-18T01:07:35Z UTC_
 | 10 | `CvSb7wdQAF…` | 6,730,472 | 5 |
 
 ## Economic Indicators
-- SOL price: **$74.71** (24h +4.46%)
-- Market cap: **$44.21B**
-- 24h volume: **$3.20B**
-- Chain TVL: **$4.77B**
-- Stablecoin supply on Solana: **$13.62B**
-- 24h DEX volume: **$1.51B**
-- 24h protocol fees: **$8.28M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$74.75** (24h +3.26%)
+- Market cap: **$44.24B**
+- 24h volume: **$2.95B**
+- Chain TVL: **$4.78B**
+- Stablecoin supply on Solana: **$13.48B**
+- 24h DEX volume: **$1.50B**
+- 24h protocol fees: **$8.22M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **4,752,475**
-- Tokenized RWA volume on Solana: **$861.49M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $351.40M
+- Tokenized RWA volume on Solana: **$851.17M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $341.03M
   - OnRe: $293.37M
   - Plume Vaults: $158.10M
   - KAIO: $34.66M
-  - Theo Network thBill: $11.82M
+  - Theo Network thBill: $11.81M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
