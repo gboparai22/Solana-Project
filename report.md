@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-11-18T23:54:00Z UTC_
+_Generated 2026-11-19T05:58:26Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `471125417`
-- Block height: `449139772`
-- Epoch: `1090` (56.8% complete)
-- Avg TPS (recent samples): **2209.0**
-- Latest TPS sample: **2056.9**
-- Avg slot time: **215.4 ms**
+- Current slot: `471227121`
+- Block height: `449241452`
+- Epoch: `1090` (80.4% complete)
+- Avg TPS (recent samples): **1336.7**
+- Latest TPS sample: **1099.3**
+- Avg slot time: **215.2 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-11-18T23:54:00Z UTC_
 | 10 | `CvSb7wdQAF…` | 6,771,472 | 5 |
 
 ## Economic Indicators
-- SOL price: **$73.8** (24h -1.64%)
-- Market cap: **$43.67B**
-- 24h volume: **$2.22B**
-- Chain TVL: **$4.70B**
-- Stablecoin supply on Solana: **$12.52B**
-- 24h DEX volume: **$1.51B**
-- 24h protocol fees: **$8.20M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$74.57** (24h -0.68%)
+- Market cap: **$44.13B**
+- 24h volume: **$2.18B**
+- Chain TVL: **$4.74B**
+- Stablecoin supply on Solana: **$12.62B**
+- 24h DEX volume: **$1.70B**
+- 24h protocol fees: **$9.97M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): **4,752,475**
-- Tokenized RWA volume on Solana: **$848.51M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $339.47M
-  - OnRe: $292.94M
-  - Plume Vaults: $157.84M
+- Daily active addresses (Glassnode): **4,646,461**
+- Tokenized RWA volume on Solana: **$848.65M** across 14 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $339.39M
+  - OnRe: $292.90M
+  - Plume Vaults: $157.77M
   - KAIO: $34.66M
-  - Theo Network thBill: $11.81M
+  - Theo Network thBill: $11.82M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
