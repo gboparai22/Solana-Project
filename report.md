@@ -1,23 +1,22 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-11-22T17:57:24Z UTC_
+_Generated 2026-11-22T23:26:36Z UTC_
 
-## ⚠️ Anomalies Detected
-- 🟡 **[WARNING]** Delinquent stake (0.696%) is 7.0 std-devs above its recent average.
+## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `472632741`
-- Block height: `450646414`
-- Epoch: `1094` (5.7% complete)
-- Avg TPS (recent samples): **1396.7**
-- Latest TPS sample: **1521.9**
-- Avg slot time: **214.5 ms**
+- Current slot: `472724530`
+- Block height: `450738127`
+- Epoch: `1094` (27.0% complete)
+- Avg TPS (recent samples): **1849.7**
+- Latest TPS sample: **1777.0**
+- Avg slot time: **214.6 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
-- Active validators: **661**
-- Delinquent validators: **24**
-- Delinquent stake: **0.696%**
+- Active validators: **662**
+- Delinquent validators: **23**
+- Delinquent stake: **0.012%**
 
 | Rank | Vote Pubkey | Stake (SOL) | Commission % |
 |---|---|---|---|
@@ -33,22 +32,22 @@ _Generated 2026-11-22T17:57:24Z UTC_
 | 10 | `CvSb7wdQAF…` | 6,775,083 | 5 |
 
 ## Economic Indicators
-- SOL price: **$70.35** (24h -0.36%)
-- Market cap: **$41.65B**
-- 24h volume: **$1.85B**
-- Chain TVL: **$4.61B**
-- Stablecoin supply on Solana: **$13.01B**
+- SOL price: **$70.44** (24h +0.43%)
+- Market cap: **$41.72B**
+- 24h volume: **$1.87B**
+- Chain TVL: **$4.60B**
+- Stablecoin supply on Solana: **$13.06B**
 - 24h DEX volume: **$1.35B**
 - 24h protocol fees: **$7.59M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **3,530,967**
-- Tokenized RWA volume on Solana: **$691.07M** across 13 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $345.30M
-  - OnRe: $287.48M
+- Tokenized RWA volume on Solana: **$690.96M** across 13 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $345.28M
+  - OnRe: $287.46M
   - KAIO: $34.66M
-  - Theo Network thBill: $11.82M
-  - Mansory: $4.99M
+  - Theo Network thBill: $11.75M
+  - Mansory: $4.98M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
