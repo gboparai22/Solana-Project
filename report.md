@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-11-21T22:16:07Z UTC_
+_Generated 2026-11-22T02:29:06Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `472303049`
-- Block height: `450316981`
-- Epoch: `1093` (29.4% complete)
-- Avg TPS (recent samples): **1942.4**
-- Latest TPS sample: **1676.8**
-- Avg slot time: **214.8 ms**
+- Current slot: `472373638`
+- Block height: `450387558`
+- Epoch: `1093` (45.7% complete)
+- Avg TPS (recent samples): **1383.4**
+- Latest TPS sample: **1546.8**
+- Avg slot time: **215.2 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-11-21T22:16:07Z UTC_
 | 10 | `CvSb7wdQAF…` | 6,774,154 | 5 |
 
 ## Economic Indicators
-- SOL price: **$70.15** (24h +1.61%)
-- Market cap: **$41.53B**
-- 24h volume: **$3.75B**
-- Chain TVL: **$4.61B**
-- Stablecoin supply on Solana: **$13.02B**
-- 24h DEX volume: **$1.88B**
-- 24h protocol fees: **$8.30M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$70.02** (24h +1.77%)
+- Market cap: **$41.45B**
+- 24h volume: **$3.58B**
+- Chain TVL: **$4.60B**
+- Stablecoin supply on Solana: **$13.08B**
+- 24h DEX volume: **$1.56B**
+- 24h protocol fees: **$7.89M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
-- Daily active addresses (Glassnode): **3,948,652**
-- Tokenized RWA volume on Solana: **$691.41M** across 13 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $345.72M
-  - OnRe: $287.46M
+- Daily active addresses (Glassnode): **3,530,967**
+- Tokenized RWA volume on Solana: **$690.92M** across 13 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $345.21M
+  - OnRe: $287.49M
   - KAIO: $34.66M
-  - Theo Network thBill: $11.82M
-  - Mansory: $4.92M
+  - Theo Network thBill: $11.81M
+  - Mansory: $4.94M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
