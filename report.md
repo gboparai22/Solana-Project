@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-11-27T10:03:48Z UTC_
+_Generated 2026-11-27T19:34:36Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `474509796`
-- Block height: `452522473`
-- Epoch: `1098` (40.2% complete)
-- Avg TPS (recent samples): **1088.7**
-- Latest TPS sample: **1063.6**
-- Avg slot time: **214.5 ms**
+- Current slot: `474669278`
+- Block height: `452681925`
+- Epoch: `1098` (77.1% complete)
+- Avg TPS (recent samples): **1990.4**
+- Latest TPS sample: **1767.3**
+- Avg slot time: **215.2 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-11-27T10:03:48Z UTC_
 | 10 | `CvSb7wdQAF…` | 6,741,351 | 5 |
 
 ## Economic Indicators
-- SOL price: **$73.43** (24h +3.42%)
-- Market cap: **$43.49B**
-- 24h volume: **$2.13B**
-- Chain TVL: **$4.68B**
-- Stablecoin supply on Solana: **$12.37B**
-- 24h DEX volume: **$1.23B**
+- SOL price: **$72.34** (24h +1.26%)
+- Market cap: **$42.84B**
+- 24h volume: **$2.70B**
+- Chain TVL: **$4.60B**
+- Stablecoin supply on Solana: **$12.70B**
+- 24h DEX volume: **$870.58M**
 - 24h protocol fees: **$6.15M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **3,762,794**
-- Tokenized RWA volume on Solana: **$745.81M** across 13 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $362.51M
+- Tokenized RWA volume on Solana: **$747.57M** across 13 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $364.35M
   - OnRe: $290.12M
-  - Theo Network thBill: $45.75M
+  - Theo Network thBill: $45.76M
   - KAIO: $34.66M
-  - Mansory: $5.41M
+  - Mansory: $5.34M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
