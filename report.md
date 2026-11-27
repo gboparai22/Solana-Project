@@ -1,16 +1,16 @@
 # SolPulse — Solana Ecosystem Report
-_Generated 2026-11-27T01:29:42Z UTC_
+_Generated 2026-11-27T10:03:48Z UTC_
 
 ## ✅ No anomalies detected this cycle
 
 ## Network Performance
 - Health: `ok`
-- Current slot: `474366205`
-- Block height: `452378969`
-- Epoch: `1098` (7.0% complete)
-- Avg TPS (recent samples): **1442.4**
-- Latest TPS sample: **1317.0**
-- Avg slot time: **215.2 ms**
+- Current slot: `474509796`
+- Block height: `452522473`
+- Epoch: `1098` (40.2% complete)
+- Avg TPS (recent samples): **1088.7**
+- Latest TPS sample: **1063.6**
+- Avg slot time: **214.5 ms**
 - Base fee: **5000 lamports/signature** + median priority fee: **0.0 micro-lamports/CU** _(not collapsed into one SOL figure — see README)_
 
 ## Validator Status
@@ -32,22 +32,22 @@ _Generated 2026-11-27T01:29:42Z UTC_
 | 10 | `CvSb7wdQAF…` | 6,741,351 | 5 |
 
 ## Economic Indicators
-- SOL price: **$71.46** (24h +0.81%)
-- Market cap: **$42.32B**
-- 24h volume: **$1.64B**
-- Chain TVL: **$4.63B**
-- Stablecoin supply on Solana: **$12.34B**
-- 24h DEX volume: **$1.26B**
-- 24h protocol fees: **$6.45M** _(REV proxy — fees only, not fees + priority fees + issuance)_
+- SOL price: **$73.43** (24h +3.42%)
+- Market cap: **$43.49B**
+- 24h volume: **$2.13B**
+- Chain TVL: **$4.68B**
+- Stablecoin supply on Solana: **$12.37B**
+- 24h DEX volume: **$1.23B**
+- 24h protocol fees: **$6.15M** _(REV proxy — fees only, not fees + priority fees + issuance)_
 
 ## Ecosystem Growth
 - Daily active addresses (Glassnode): **3,762,794**
-- Tokenized RWA volume on Solana: **$755.60M** across 13 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
-  - Huma: $372.45M
-  - OnRe: $290.09M
+- Tokenized RWA volume on Solana: **$745.81M** across 13 protocol(s) _(DeFiLlama's broader RWA category — not verified equities-only)_
+  - Huma: $362.51M
+  - OnRe: $290.12M
   - Theo Network thBill: $45.75M
   - KAIO: $34.66M
-  - Mansory: $5.29M
+  - Mansory: $5.41M
 
 ## Ecosystem & Community
 _No TWITTER_BEARER_TOKEN configured — add one (X API v2) to pull live posts. In the meantime, check these accounts manually:_
